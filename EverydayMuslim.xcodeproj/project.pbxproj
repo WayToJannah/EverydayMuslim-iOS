@@ -18,6 +18,11 @@
 		C7290B9F26061B99005580C5 /* EverydayMuslimTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7290B9E26061B99005580C5 /* EverydayMuslimTests.swift */; };
 		C7290BAA26061B99005580C5 /* EverydayMuslimUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7290BA926061B99005580C5 /* EverydayMuslimUITests.swift */; };
 		C7D22DE62607751F0025E2E5 /* CalculationMethod+Ex.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D22DE52607751F0025E2E5 /* CalculationMethod+Ex.swift */; };
+		C7D22DF226078AC00025E2E5 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = C7D22DEF26078AC00025E2E5 /* countries.json */; };
+		C7D22DF326078AC00025E2E5 /* district_time.json in Resources */ = {isa = PBXBuildFile; fileRef = C7D22DF026078AC00025E2E5 /* district_time.json */; };
+		C7D22DF426078AC00025E2E5 /* districts.json in Resources */ = {isa = PBXBuildFile; fileRef = C7D22DF126078AC00025E2E5 /* districts.json */; };
+		C7D22DF926078BAE0025E2E5 /* BanglaDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D22DF826078BAE0025E2E5 /* BanglaDate.swift */; };
+		C7D22DFF26078C5F0025E2E5 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D22DFE26078C5F0025E2E5 /* Util.swift */; };
 		D3827970389661858CC07459 /* Pods_EverydayMuslimTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAA7AF04C044406BCF07A697 /* Pods_EverydayMuslimTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +65,11 @@
 		C7290BA926061B99005580C5 /* EverydayMuslimUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EverydayMuslimUITests.swift; sourceTree = "<group>"; };
 		C7290BAB26061B99005580C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C7D22DE52607751F0025E2E5 /* CalculationMethod+Ex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CalculationMethod+Ex.swift"; sourceTree = "<group>"; };
+		C7D22DEF26078AC00025E2E5 /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
+		C7D22DF026078AC00025E2E5 /* district_time.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = district_time.json; sourceTree = "<group>"; };
+		C7D22DF126078AC00025E2E5 /* districts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = districts.json; sourceTree = "<group>"; };
+		C7D22DF826078BAE0025E2E5 /* BanglaDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BanglaDate.swift; sourceTree = "<group>"; };
+		C7D22DFE26078C5F0025E2E5 /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
 		E244EDA538944E30B0FE7923 /* Pods-EverydayMuslimTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslimTests.debug.xcconfig"; path = "Target Support Files/Pods-EverydayMuslimTests/Pods-EverydayMuslimTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E9F330BE43A42A315B913FBE /* Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig"; path = "Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig"; sourceTree = "<group>"; };
 		FC9F1D2968701D4A173DE14C /* Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig"; path = "Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -141,11 +151,11 @@
 		C7290B8626061B95005580C5 /* EverydayMuslim */ = {
 			isa = PBXGroup;
 			children = (
+				C7D22DFD26078C4E0025E2E5 /* Util */,
+				C7D22DEA260784990025E2E5 /* App */,
 				C7D22DE1260773950025E2E5 /* Scene */,
 				C7D22DDD260770CF0025E2E5 /* Model */,
-				C7290B8726061B95005580C5 /* AppDelegate.swift */,
-				C7290B8926061B95005580C5 /* SceneDelegate.swift */,
-				C7290B9026061B99005580C5 /* Assets.xcassets */,
+				C7D22DEE260784AA0025E2E5 /* Resources */,
 				C7290B9226061B99005580C5 /* LaunchScreen.storyboard */,
 				C7290B9526061B99005580C5 /* Info.plist */,
 			);
@@ -174,6 +184,7 @@
 			isa = PBXGroup;
 			children = (
 				C7D22DE52607751F0025E2E5 /* CalculationMethod+Ex.swift */,
+				C7D22DF826078BAE0025E2E5 /* BanglaDate.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -209,6 +220,34 @@
 				C7290B8B26061B95005580C5 /* ViewController.swift */,
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		C7D22DEA260784990025E2E5 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				C7290B8726061B95005580C5 /* AppDelegate.swift */,
+				C7290B8926061B95005580C5 /* SceneDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		C7D22DEE260784AA0025E2E5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C7D22DEF26078AC00025E2E5 /* countries.json */,
+				C7D22DF026078AC00025E2E5 /* district_time.json */,
+				C7D22DF126078AC00025E2E5 /* districts.json */,
+				C7290B9026061B99005580C5 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C7D22DFD26078C4E0025E2E5 /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				C7D22DFE26078C5F0025E2E5 /* Util.swift */,
+			);
+			path = Util;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -319,8 +358,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7D22DF326078AC00025E2E5 /* district_time.json in Resources */,
 				C7290B9426061B99005580C5 /* LaunchScreen.storyboard in Resources */,
 				C7290B9126061B99005580C5 /* Assets.xcassets in Resources */,
+				C7D22DF426078AC00025E2E5 /* districts.json in Resources */,
+				C7D22DF226078AC00025E2E5 /* countries.json in Resources */,
 				C7290B8F26061B95005580C5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -449,6 +491,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7D22DFF26078C5F0025E2E5 /* Util.swift in Sources */,
+				C7D22DF926078BAE0025E2E5 /* BanglaDate.swift in Sources */,
 				C7290B8C26061B95005580C5 /* ViewController.swift in Sources */,
 				C7D22DE62607751F0025E2E5 /* CalculationMethod+Ex.swift in Sources */,
 				C7290B8826061B95005580C5 /* AppDelegate.swift in Sources */,
