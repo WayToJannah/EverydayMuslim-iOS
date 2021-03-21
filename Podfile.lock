@@ -1,0 +1,34 @@
+PODS:
+  - Adhan (1.2.0)
+  - Floaty (4.2.0)
+  - GRDB.swift (5.6.0):
+    - GRDB.swift/standard (= 5.6.0)
+  - GRDB.swift/standard (5.6.0)
+
+DEPENDENCIES:
+  - Adhan
+  - Floaty (~> 4.2.0)
+  - GRDB.swift (from `https://github.com/groue/GRDB.swift`)
+
+SPEC REPOS:
+  trunk:
+    - Adhan
+    - Floaty
+
+EXTERNAL SOURCES:
+  GRDB.swift:
+    :git: https://github.com/groue/GRDB.swift
+
+CHECKOUT OPTIONS:
+  GRDB.swift:
+    :commit: 0133ff9056f3f272a52c8f07d7f10de6b7518c23
+    :git: https://github.com/groue/GRDB.swift
+
+SPEC CHECKSUMS:
+  Adhan: 3cd2cd98044266acd7ed3221afe3829ef779ec8e
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+  GRDB.swift: c91e3a2a59b5cdef17c2190015fd29ffee76922c
+
+PODFILE CHECKSUM: 76494c0414d2fe03947ba305a840ffab9e1931a1
+
+COCOAPODS: 1.10.1

@@ -3,10 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2CFCE56FB4F4E32884866BA8 /* Pods_EverydayMuslim.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 585E58FF6BD05FD562EFD652 /* Pods_EverydayMuslim.framework */; };
+		3F5F27CF99DAA02E974F41AC /* Pods_EverydayMuslim_EverydayMuslimUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B61931EF268DDB7814563E5C /* Pods_EverydayMuslim_EverydayMuslimUITests.framework */; };
 		C7290B8826061B95005580C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7290B8726061B95005580C5 /* AppDelegate.swift */; };
 		C7290B8A26061B95005580C5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7290B8926061B95005580C5 /* SceneDelegate.swift */; };
 		C7290B8C26061B95005580C5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7290B8B26061B95005580C5 /* ViewController.swift */; };
@@ -15,6 +17,7 @@
 		C7290B9426061B99005580C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7290B9226061B99005580C5 /* LaunchScreen.storyboard */; };
 		C7290B9F26061B99005580C5 /* EverydayMuslimTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7290B9E26061B99005580C5 /* EverydayMuslimTests.swift */; };
 		C7290BAA26061B99005580C5 /* EverydayMuslimUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7290BA926061B99005580C5 /* EverydayMuslimUITests.swift */; };
+		D3827970389661858CC07459 /* Pods_EverydayMuslimTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAA7AF04C044406BCF07A697 /* Pods_EverydayMuslimTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +38,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		029CF4C1A293E4AF613FE8B2 /* Pods-EverydayMuslim.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslim.release.xcconfig"; path = "Target Support Files/Pods-EverydayMuslim/Pods-EverydayMuslim.release.xcconfig"; sourceTree = "<group>"; };
+		3C8178D061DDDAA338CFF581 /* Pods-EverydayMuslimTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslimTests.release.xcconfig"; path = "Target Support Files/Pods-EverydayMuslimTests/Pods-EverydayMuslimTests.release.xcconfig"; sourceTree = "<group>"; };
+		585E58FF6BD05FD562EFD652 /* Pods_EverydayMuslim.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EverydayMuslim.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D5FC336D640D13011279A55 /* Pods-EverydayMuslim.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslim.debug.xcconfig"; path = "Target Support Files/Pods-EverydayMuslim/Pods-EverydayMuslim.debug.xcconfig"; sourceTree = "<group>"; };
+		AAA7AF04C044406BCF07A697 /* Pods_EverydayMuslimTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EverydayMuslimTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B61931EF268DDB7814563E5C /* Pods_EverydayMuslim_EverydayMuslimUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EverydayMuslim_EverydayMuslimUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7290B8426061B95005580C5 /* EverydayMuslim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EverydayMuslim.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7290B8726061B95005580C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7290B8926061B95005580C5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +58,9 @@
 		C7290BA526061B99005580C5 /* EverydayMuslimUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EverydayMuslimUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7290BA926061B99005580C5 /* EverydayMuslimUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EverydayMuslimUITests.swift; sourceTree = "<group>"; };
 		C7290BAB26061B99005580C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E244EDA538944E30B0FE7923 /* Pods-EverydayMuslimTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslimTests.debug.xcconfig"; path = "Target Support Files/Pods-EverydayMuslimTests/Pods-EverydayMuslimTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E9F330BE43A42A315B913FBE /* Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig"; path = "Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig"; sourceTree = "<group>"; };
+		FC9F1D2968701D4A173DE14C /* Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig"; path = "Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CFCE56FB4F4E32884866BA8 /* Pods_EverydayMuslim.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3827970389661858CC07459 /* Pods_EverydayMuslimTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +84,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F5F27CF99DAA02E974F41AC /* Pods_EverydayMuslim_EverydayMuslimUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1748E9B1179725068CC46B12 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				585E58FF6BD05FD562EFD652 /* Pods_EverydayMuslim.framework */,
+				B61931EF268DDB7814563E5C /* Pods_EverydayMuslim_EverydayMuslimUITests.framework */,
+				AAA7AF04C044406BCF07A697 /* Pods_EverydayMuslimTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		89E8F6234BBF28C440E76862 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5D5FC336D640D13011279A55 /* Pods-EverydayMuslim.debug.xcconfig */,
+				029CF4C1A293E4AF613FE8B2 /* Pods-EverydayMuslim.release.xcconfig */,
+				FC9F1D2968701D4A173DE14C /* Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig */,
+				E9F330BE43A42A315B913FBE /* Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig */,
+				E244EDA538944E30B0FE7923 /* Pods-EverydayMuslimTests.debug.xcconfig */,
+				3C8178D061DDDAA338CFF581 /* Pods-EverydayMuslimTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		C7290B7B26061B95005580C5 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +121,8 @@
 				C7290B9D26061B99005580C5 /* EverydayMuslimTests */,
 				C7290BA826061B99005580C5 /* EverydayMuslimUITests */,
 				C7290B8526061B95005580C5 /* Products */,
+				89E8F6234BBF28C440E76862 /* Pods */,
+				1748E9B1179725068CC46B12 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -135,9 +175,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C7290BAE26061B99005580C5 /* Build configuration list for PBXNativeTarget "EverydayMuslim" */;
 			buildPhases = (
+				A1BF04537FDEF934F6A82391 /* [CP] Check Pods Manifest.lock */,
 				C7290B8026061B95005580C5 /* Sources */,
 				C7290B8126061B95005580C5 /* Frameworks */,
 				C7290B8226061B95005580C5 /* Resources */,
+				992F38EF70FEAE1376505E96 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C7290BB126061B99005580C5 /* Build configuration list for PBXNativeTarget "EverydayMuslimTests" */;
 			buildPhases = (
+				62C98A4B4D829ADA2DAB930A /* [CP] Check Pods Manifest.lock */,
 				C7290B9626061B99005580C5 /* Sources */,
 				C7290B9726061B99005580C5 /* Frameworks */,
 				C7290B9826061B99005580C5 /* Resources */,
@@ -170,9 +213,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C7290BB426061B99005580C5 /* Build configuration list for PBXNativeTarget "EverydayMuslimUITests" */;
 			buildPhases = (
+				6C3CF1AC870E995B27B146A1 /* [CP] Check Pods Manifest.lock */,
 				C7290BA126061B99005580C5 /* Sources */,
 				C7290BA226061B99005580C5 /* Frameworks */,
 				C7290BA326061B99005580C5 /* Resources */,
+				FFD254092D53C837EB0A76A6 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -252,6 +297,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		62C98A4B4D829ADA2DAB930A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EverydayMuslimTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6C3CF1AC870E995B27B146A1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EverydayMuslim-EverydayMuslimUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		992F38EF70FEAE1376505E96 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EverydayMuslim/Pods-EverydayMuslim-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EverydayMuslim/Pods-EverydayMuslim-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EverydayMuslim/Pods-EverydayMuslim-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A1BF04537FDEF934F6A82391 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EverydayMuslim-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FFD254092D53C837EB0A76A6 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C7290B8026061B95005580C5 /* Sources */ = {
@@ -433,17 +581,20 @@
 		};
 		C7290BAF26061B99005580C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5D5FC336D640D13011279A55 /* Pods-EverydayMuslim.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LZD5N478Y9;
 				INFOPLIST_FILE = EverydayMuslim/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = snnafi.EverydayMuslim;
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = snnafi.everyday.muslim;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -452,17 +603,20 @@
 		};
 		C7290BB026061B99005580C5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 029CF4C1A293E4AF613FE8B2 /* Pods-EverydayMuslim.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LZD5N478Y9;
 				INFOPLIST_FILE = EverydayMuslim/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = snnafi.EverydayMuslim;
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = snnafi.everyday.muslim;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -471,6 +625,7 @@
 		};
 		C7290BB226061B99005580C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E244EDA538944E30B0FE7923 /* Pods-EverydayMuslimTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -493,6 +648,7 @@
 		};
 		C7290BB326061B99005580C5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3C8178D061DDDAA338CFF581 /* Pods-EverydayMuslimTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -515,6 +671,7 @@
 		};
 		C7290BB526061B99005580C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FC9F1D2968701D4A173DE14C /* Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -535,6 +692,7 @@
 		};
 		C7290BB626061B99005580C5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E9F330BE43A42A315B913FBE /* Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
