@@ -6,7 +6,7 @@
       "lng": 19.9365245,
       "country": "Aland Islands",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kabul",
@@ -14,7 +14,7 @@
       "lng": 69.1833,
       "country": "Afghanistan",
       "timezone": 4.5,
-      "method": "University Of Islamic Sciences, Karachi"
+      "method": 2
     },
     {
       "city": "The Valley",
@@ -22,7 +22,7 @@
       "lng": -63.0552055,
       "country": "Anguilla",
       "timezone": -4,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Tirana",
@@ -30,7 +30,7 @@
       "lng": 19.8189,
       "country": "Albania",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Algiers",
@@ -38,7 +38,7 @@
       "lng": 3.0506,
       "country": "Algeria",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Pago Pago",
@@ -46,7 +46,7 @@
       "lng": -170.7046,
       "country": "American Samoa",
       "timezone": -11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Andorra La Vella",
@@ -54,7 +54,7 @@
       "lng": 1.5165,
       "country": "Andorra",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Luanda",
@@ -62,7 +62,7 @@
       "lng": 13.2344,
       "country": "Angola",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Saint John’s",
@@ -70,7 +70,7 @@
       "lng": -61.85,
       "country": "Antigua And Barbuda",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Buenos Aires",
@@ -78,7 +78,7 @@
       "lng": -58.3975,
       "country": "Argentina",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Yerevan",
@@ -86,7 +86,7 @@
       "lng": 44.5136,
       "country": "Armenia",
       "timezone": 4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Oranjestad",
@@ -94,7 +94,7 @@
       "lng": -70.029,
       "country": "Aruba",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kralendijk",
@@ -102,7 +102,7 @@
       "lng": -68.2735115,
       "country": "Caribbean Netherlands",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Mawson Peak",
@@ -110,7 +110,7 @@
       "lng": 73.5129258,
       "country": "Australia (Heard Island and McDonald Island)",
       "timezone": 5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Perth",
@@ -118,7 +118,7 @@
       "lng": 115.9730895,
       "country": "Australia (Western)",
       "timezone": 8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Eucla",
@@ -126,7 +126,7 @@
       "lng": 128.886944,
       "country": "Australia (Central Western)",
       "timezone": 8.75,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Darwin",
@@ -134,7 +134,7 @@
       "lng": 130.84477,
       "country": "Australia (Northern Territory)",
       "timezone": 9.5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Brisbane",
@@ -142,7 +142,7 @@
       "lng": 153.031933,
       "country": "Australia (Eastern)",
       "timezone": 10,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Adelaide",
@@ -150,7 +150,7 @@
       "lng": 138.598871,
       "country": "Australia (Southern)",
       "timezone": 10.5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Canberra",
@@ -158,7 +158,7 @@
       "lng": 149.129,
       "country": "Australia (North South Wales)",
       "timezone": 11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Vienna",
@@ -166,7 +166,7 @@
       "lng": 16.3666,
       "country": "Austria",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Baku",
@@ -174,7 +174,7 @@
       "lng": 49.8622,
       "country": "Azerbaijan",
       "timezone": 4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nassau",
@@ -182,7 +182,7 @@
       "lng": -77.35,
       "country": "Bahamas, The",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Manama",
@@ -190,7 +190,7 @@
       "lng": 50.5831,
       "country": "Bahrain",
       "timezone": 3,
-      "method": "Umm Al-Qura"
+      "method": 3
     },
     {
       "city": "Dhaka",
@@ -198,7 +198,7 @@
       "lng": 90.4086,
       "country": "Bangladesh",
       "timezone": 6,
-      "method": "University Of Islamic Sciences, Karachi"
+      "method": 2
     },
     {
       "city": "Bridgetown",
@@ -206,7 +206,7 @@
       "lng": -59.6165,
       "country": "Barbados",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Minsk",
@@ -214,7 +214,7 @@
       "lng": 27.5666,
       "country": "Belarus",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Brussels",
@@ -222,7 +222,7 @@
       "lng": 4.3333,
       "country": "Belgium",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Belmopan",
@@ -230,7 +230,7 @@
       "lng": -88.7671,
       "country": "Belize",
       "timezone": -6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Porto-novo",
@@ -238,7 +238,7 @@
       "lng": 2.6166,
       "country": "Benin",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Hamilton",
@@ -246,7 +246,7 @@
       "lng": -64.7839,
       "country": "Bermuda",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Thimphu",
@@ -254,7 +254,7 @@
       "lng": 89.639,
       "country": "Bhutan",
       "timezone": 6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Sucre",
@@ -262,7 +262,7 @@
       "lng": -65.2595,
       "country": "Bolivia",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Sarajevo",
@@ -270,7 +270,7 @@
       "lng": 18.383,
       "country": "Bosnia And Herzegovina",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Gaborone",
@@ -278,7 +278,7 @@
       "lng": 25.9119,
       "country": "Botswana",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Rio Branco",
@@ -286,7 +286,7 @@
       "lng": -67.8271803,
       "country": "Brazil (State of Acre)",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Manaus",
@@ -294,7 +294,7 @@
       "lng": -60.0272675,
       "country": "Brazil (State of Amazonas)",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Brasília",
@@ -302,7 +302,7 @@
       "lng": -47.9161,
       "country": "Brazil",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Fernando de Noronha",
@@ -310,7 +310,7 @@
       "lng": -32.4170581,
       "country": "Brazil (Fernando de Noronha)",
       "timezone": -2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Chagos",
@@ -318,7 +318,7 @@
       "lng": 72.3921579,
       "country": "British Indian Ocean Territory",
       "timezone": 6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tortola",
@@ -326,7 +326,7 @@
       "lng": -64.6333287,
       "country": "British Virgin Islands",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bandar Seri Begawan",
@@ -334,7 +334,7 @@
       "lng": 114.9359765,
       "country": "Brunei",
       "timezone": 8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Sofia",
@@ -342,7 +342,7 @@
       "lng": 23.3167,
       "country": "Bulgaria",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Ouagadougou",
@@ -350,7 +350,7 @@
       "lng": -1.5247,
       "country": "Burkina Faso",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nay Pyi Taw",
@@ -358,7 +358,7 @@
       "lng": 96.1186,
       "country": "Burma",
       "timezone": 6.5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bujumbura",
@@ -366,7 +366,7 @@
       "lng": 29.36,
       "country": "Burundi",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Praia",
@@ -374,7 +374,7 @@
       "lng": -23.5167,
       "country": "Cabo Verde",
       "timezone": -1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Praia",
@@ -382,7 +382,7 @@
       "lng": -23.5167,
       "country": "Cape Verde",
       "timezone": -1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Phnom Penh",
@@ -390,7 +390,7 @@
       "lng": 104.9166,
       "country": "Cambodia",
       "timezone": 7,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Yaoundé",
@@ -398,7 +398,7 @@
       "lng": 11.5167,
       "country": "Cameroon",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Vancouver",
@@ -406,7 +406,7 @@
       "lng": -123.121308,
       "country": "Canada (Pacific)",
       "timezone": -8,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Edmonton",
@@ -414,7 +414,7 @@
       "lng": -113.4942965,
       "country": "Canada (Mountain)",
       "timezone": -7,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Winnipeg",
@@ -422,7 +422,7 @@
       "lng": -97.1391973,
       "country": "Canada (Central)",
       "timezone": -6,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Ottawa",
@@ -430,7 +430,7 @@
       "lng": -75.7,
       "country": "Canada (Eastern)",
       "timezone": -5,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Halifax",
@@ -438,7 +438,7 @@
       "lng": -63.616049,
       "country": "Canada (Atlantic)",
       "timezone": -4,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "St. John's",
@@ -446,7 +446,7 @@
       "lng": -52.714524,
       "country": "Canada (Newfoundland)",
       "timezone": -3.5,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "George Town",
@@ -454,7 +454,7 @@
       "lng": -81.33,
       "country": "Cayman Islands",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bangui",
@@ -462,7 +462,7 @@
       "lng": 18.5583,
       "country": "Central African Republic",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "N’djamena",
@@ -470,7 +470,7 @@
       "lng": 15.0491,
       "country": "Chad",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Santiago",
@@ -478,7 +478,7 @@
       "lng": -70.667,
       "country": "Chile",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Easter Island",
@@ -486,7 +486,7 @@
       "lng": -109.3497232,
       "country": "Chile (Easter Island)",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Beijing",
@@ -494,7 +494,7 @@
       "lng": 116.3883,
       "country": "China",
       "timezone": 8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Flying Fish Cove",
@@ -502,7 +502,7 @@
       "lng": 105.6728405,
       "country": "Christmas Island",
       "timezone": 7,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "West Island",
@@ -510,7 +510,7 @@
       "lng": 96.820522,
       "country": "Cocos",
       "timezone": 6.5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bogotá",
@@ -518,7 +518,7 @@
       "lng": -74.0833,
       "country": "Colombia",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Moroni",
@@ -526,7 +526,7 @@
       "lng": 43.2402,
       "country": "Comoros",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Brazzaville",
@@ -534,7 +534,7 @@
       "lng": 15.2847,
       "country": "Republic of The Congo",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kinshasa",
@@ -542,7 +542,7 @@
       "lng": 15.315,
       "country": "Democratic Republic of The Congo (West Africa)",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Lubumbashi",
@@ -550,7 +550,7 @@
       "lng": 27.4827669,
       "country": "Democratic Republic of The Congo (Central Africa)",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Avarua",
@@ -558,7 +558,7 @@
       "lng": -159.75,
       "country": "Cook Islands",
       "timezone": -10,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "San José",
@@ -566,7 +566,7 @@
       "lng": -84.0841,
       "country": "Costa Rica",
       "timezone": -6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Yamoussoukro",
@@ -574,7 +574,7 @@
       "lng": -5.2755,
       "country": "Côte D’ivoire",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Zagreb",
@@ -582,7 +582,7 @@
       "lng": 16,
       "country": "Croatia",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Havana",
@@ -590,7 +590,7 @@
       "lng": -82.3642,
       "country": "Cuba",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Willemstad",
@@ -598,7 +598,7 @@
       "lng": -69.02,
       "country": "Curaçao",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nicosia",
@@ -606,7 +606,7 @@
       "lng": 33.3666,
       "country": "Cyprus",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Prague",
@@ -614,7 +614,7 @@
       "lng": 14.466,
       "country": "Czechia",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Copenhagen",
@@ -622,7 +622,7 @@
       "lng": 12.5635,
       "country": "Denmark",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Djibouti",
@@ -630,7 +630,7 @@
       "lng": 43.148,
       "country": "Djibouti",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Roseau",
@@ -638,7 +638,7 @@
       "lng": -61.387,
       "country": "Dominica",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Santo Domingo",
@@ -646,7 +646,7 @@
       "lng": -69.9001,
       "country": "Dominican Republic",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Quito",
@@ -654,7 +654,7 @@
       "lng": -78.5001,
       "country": "Ecuador",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Galapagos Islands",
@@ -662,7 +662,7 @@
       "lng": -90.4073821,
       "country": "Ecuador (Galapagos)",
       "timezone": -6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Queensland",
@@ -670,7 +670,7 @@
       "lng": 144.2406258,
       "country": "Australia(Eastern State)",
       "timezone": 10,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Cairo",
@@ -678,7 +678,7 @@
       "lng": 31.25,
       "country": "Egypt",
       "timezone": 2,
-      "method": "Egyptian General Authority of Survey"
+      "method": 1
     },
     {
       "city": "San Salvador",
@@ -686,7 +686,7 @@
       "lng": -89.203,
       "country": "El Salvador",
       "timezone": -6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Malabo",
@@ -694,7 +694,7 @@
       "lng": 8.7833,
       "country": "Equatorial Guinea",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Asmara",
@@ -702,7 +702,7 @@
       "lng": 38.9333,
       "country": "Eritrea",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tallinn",
@@ -710,7 +710,7 @@
       "lng": 24.728,
       "country": "Estonia",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Lobamba",
@@ -718,7 +718,7 @@
       "lng": 31.166483,
       "country": "Eswatini",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Addis Ababa",
@@ -726,7 +726,7 @@
       "lng": 38.7,
       "country": "Ethiopia",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Stanley",
@@ -734,7 +734,7 @@
       "lng": -57.85,
       "country": "Falkland Islands (Islas Malvinas)",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tórshavn",
@@ -742,7 +742,7 @@
       "lng": -6.82,
       "country": "Faroe Islands",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Suva",
@@ -750,7 +750,7 @@
       "lng": 178.4417,
       "country": "Fiji",
       "timezone": 12,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Helsinki",
@@ -758,7 +758,7 @@
       "lng": 24.9341,
       "country": "Finland",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Paris",
@@ -774,7 +774,7 @@
       "lng": -52.33,
       "country": "French Guiana",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Papeete",
@@ -782,7 +782,7 @@
       "lng": -149.5667,
       "country": "French Polynesia",
       "timezone": -10,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Taiohae",
@@ -790,7 +790,7 @@
       "lng": -140.099708,
       "country": "French Polynesia (Marquesas)",
       "timezone": -9.5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Gambier Islands",
@@ -798,7 +798,7 @@
       "lng": -134.974704,
       "country": "French Polynesia (Gambier)",
       "timezone": -9,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kerguelen",
@@ -806,7 +806,7 @@
       "lng": 69.35296,
       "country": "French Southern Territories",
       "timezone": 5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Libreville",
@@ -814,7 +814,7 @@
       "lng": 9.458,
       "country": "Gabon",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Banjul",
@@ -822,7 +822,7 @@
       "lng": -16.5917,
       "country": "Gambia, The",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tbilisi",
@@ -830,7 +830,7 @@
       "lng": 44.7908,
       "country": "Georgia",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Berlin",
@@ -838,7 +838,7 @@
       "lng": 13.4015,
       "country": "Germany",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Accra",
@@ -846,7 +846,7 @@
       "lng": -0.2167,
       "country": "Ghana",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Gibraltar",
@@ -854,7 +854,7 @@
       "lng": -5.3781,
       "country": "Gibraltar",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Athens",
@@ -862,7 +862,7 @@
       "lng": 23.7333,
       "country": "Greece",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Thule Air Base",
@@ -870,7 +870,7 @@
       "lng": -68.7000128,
       "country": "Greenland (Atlantic)",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nuuk",
@@ -878,7 +878,7 @@
       "lng": -51.7327,
       "country": "Greenland (West)",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Ittoqqortoormiit",
@@ -886,7 +886,7 @@
       "lng": -21.9620865,
       "country": "Greenland (East)",
       "timezone": -1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Danmarkshavn",
@@ -894,7 +894,7 @@
       "lng": -18.6167976,
       "country": "Greenland",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Saint George’s",
@@ -902,7 +902,7 @@
       "lng": -61.7416,
       "country": "Grenada",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Basse-terre",
@@ -910,7 +910,7 @@
       "lng": -61.7167,
       "country": "Guadeloupe",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Hagåtña",
@@ -918,7 +918,7 @@
       "lng": 144.7504,
       "country": "Guam",
       "timezone": 10,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Guatemala City",
@@ -926,7 +926,7 @@
       "lng": -90.527,
       "country": "Guatemala",
       "timezone": -6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Saint Peter Port",
@@ -934,7 +934,7 @@
       "lng": -2.535494,
       "country": "Guernsey",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Conakry",
@@ -942,7 +942,7 @@
       "lng": -13.6802,
       "country": "Guinea",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bissau",
@@ -950,7 +950,7 @@
       "lng": -15.5984,
       "country": "Guinea-bissau",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Georgetown",
@@ -958,7 +958,7 @@
       "lng": -58.167,
       "country": "Guyana",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Port-au-prince",
@@ -966,7 +966,7 @@
       "lng": -72.336,
       "country": "Haiti",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tegucigalpa",
@@ -974,7 +974,7 @@
       "lng": -87.2175,
       "country": "Honduras",
       "timezone": -6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Budapest",
@@ -982,7 +982,7 @@
       "lng": 19.0833,
       "country": "Hungary",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Reykjavík",
@@ -990,7 +990,7 @@
       "lng": -21.95,
       "country": "Iceland",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Delhi",
@@ -998,7 +998,7 @@
       "lng": 77.23,
       "country": "India",
       "timezone": 5.5,
-      "method": "University Of Islamic Sciences, Karachi"
+      "method": 2
     },
     {
       "city": "Jakarta",
@@ -1006,7 +1006,7 @@
       "lng": 106.8294,
       "country": "Indonesia (Western)",
       "timezone": 7,
-      "method": "Majlis Ugama Islam Singapura"
+      "method": 8
     },
     {
       "city": "Makassar",
@@ -1014,7 +1014,7 @@
       "lng": 119.4393495,
       "country": "Indonesia (Central)",
       "timezone": 8,
-      "method": "Majlis Ugama Islam Singapura"
+      "method": 8
     },
     {
       "city": "Manokwari",
@@ -1022,7 +1022,7 @@
       "lng": 134.0615015,
       "country": "Indonesia (Eastern)",
       "timezone": 9,
-      "method": "Majlis Ugama Islam Singapura"
+      "method": 8
     },
     {
       "city": "Tehran",
@@ -1030,7 +1030,7 @@
       "lng": 51.4243,
       "country": "Iran",
       "timezone": 3.5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Baghdad",
@@ -1038,7 +1038,7 @@
       "lng": 44.3939,
       "country": "Iraq",
       "timezone": 3,
-      "method": "Egyptian General Authority of Survey"
+      "method": 1
     },
     {
       "city": "Dublin",
@@ -1046,7 +1046,7 @@
       "lng": -6.2489,
       "country": "Ireland",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Douglas",
@@ -1054,7 +1054,7 @@
       "lng": -4.48,
       "country": "Isle Of Man",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Jerusalem",
@@ -1062,7 +1062,7 @@
       "lng": 35.2066,
       "country": "Israel",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Rome",
@@ -1070,7 +1070,7 @@
       "lng": 12.4833,
       "country": "Italy",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kingston",
@@ -1078,7 +1078,7 @@
       "lng": -76.7674,
       "country": "Jamaica",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tokyo",
@@ -1086,7 +1086,7 @@
       "lng": 139.7514,
       "country": "Japan",
       "timezone": 9,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Saint Helier",
@@ -1094,7 +1094,7 @@
       "lng": -2.1039195,
       "country": "Jersey",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Amman",
@@ -1102,7 +1102,7 @@
       "lng": 35.9333,
       "country": "Jordan",
       "timezone": 2,
-      "method": "Umm Al-Qura"
+      "method": 3
     },
     {
       "city": "Nur-sultan",
@@ -1110,7 +1110,7 @@
       "lng": 71.4278,
       "country": "Kazakhstan",
       "timezone": 6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Aqtobe",
@@ -1118,7 +1118,7 @@
       "lng": 57.1857195,
       "country": "Kazakhstan (Aqtobe)",
       "timezone": 5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Uralsk",
@@ -1126,7 +1126,7 @@
       "lng": 51.3858911,
       "country": "Kazakhstan (Uralsk)",
       "timezone": 5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nairobi",
@@ -1134,7 +1134,7 @@
       "lng": 36.8167,
       "country": "Kenya",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tarawa",
@@ -1142,7 +1142,7 @@
       "lng": 173.0176,
       "country": "Kiribati",
       "timezone": 12,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kanton Island",
@@ -1150,7 +1150,7 @@
       "lng": -171.6445367,
       "country": "Kiribati (Phoenix Island)",
       "timezone": 13,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kiritimati",
@@ -1158,7 +1158,7 @@
       "lng": -157.4383534,
       "country": "Kiribati (Line Island)",
       "timezone": 14,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Pyongyang",
@@ -1166,7 +1166,7 @@
       "lng": 125.7547,
       "country": "Korea, North",
       "timezone": 9,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Seoul",
@@ -1174,7 +1174,7 @@
       "lng": 126.9997,
       "country": "Korea, South",
       "timezone": 9,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Pristina",
@@ -1182,7 +1182,7 @@
       "lng": 21.1724,
       "country": "Kosovo",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kuwait City",
@@ -1190,7 +1190,7 @@
       "lng": 47.9767055,
       "country": "Kuwait",
       "timezone": 3,
-      "method": "Umm Al-Qura"
+      "method": 3
     },
     {
       "city": "Bishkek",
@@ -1198,7 +1198,7 @@
       "lng": 74.5852,
       "country": "Kyrgyzstan",
       "timezone": 6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Vientiane",
@@ -1206,7 +1206,7 @@
       "lng": 102.6,
       "country": "Laos",
       "timezone": 7,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Riga",
@@ -1214,7 +1214,7 @@
       "lng": 24.1,
       "country": "Latvia",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Beirut",
@@ -1222,7 +1222,7 @@
       "lng": 35.5097,
       "country": "Lebanon",
       "timezone": 2,
-      "method": "Egyptian General Authority of Survey"
+      "method": 1
     },
     {
       "city": "Maseru",
@@ -1230,7 +1230,7 @@
       "lng": 27.4833,
       "country": "Lesotho",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Monrovia",
@@ -1238,7 +1238,7 @@
       "lng": -10.8048,
       "country": "Liberia",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tripoli",
@@ -1246,7 +1246,7 @@
       "lng": 13.18,
       "country": "Libya",
       "timezone": 2,
-      "method": "Egyptian General Authority of Survey"
+      "method": 1
     },
     {
       "city": "Vaduz",
@@ -1254,7 +1254,7 @@
       "lng": 9.5167,
       "country": "Liechtenstein",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Vilnius",
@@ -1262,7 +1262,7 @@
       "lng": 25.3166,
       "country": "Lithuania",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Luxembourg",
@@ -1270,7 +1270,7 @@
       "lng": 6.13,
       "country": "Luxembourg",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Macau",
@@ -1278,7 +1278,7 @@
       "lng": 113.545,
       "country": "Macau",
       "timezone": 8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Skopje",
@@ -1286,7 +1286,7 @@
       "lng": 21.4335,
       "country": "Macedonia",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Antananarivo",
@@ -1294,7 +1294,7 @@
       "lng": 47.5166,
       "country": "Madagascar",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Lilongwe",
@@ -1302,7 +1302,7 @@
       "lng": 33.7833,
       "country": "Malawi",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kuala Lumpur",
@@ -1310,7 +1310,7 @@
       "lng": 101.7,
       "country": "Malaysia",
       "timezone": 8,
-      "method":"Majlis Ugama Islam Singapura"
+      "method":8
     },
     {
       "city": "Male",
@@ -1318,7 +1318,7 @@
       "lng": 73.4999,
       "country": "Maldives",
       "timezone": 5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bamako",
@@ -1326,7 +1326,7 @@
       "lng": -8,
       "country": "Mali",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Valletta",
@@ -1334,7 +1334,7 @@
       "lng": 14.5147,
       "country": "Malta",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Majuro",
@@ -1342,7 +1342,7 @@
       "lng": 171.38,
       "country": "Marshall Islands",
       "timezone": 12,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Fort-de-france",
@@ -1350,7 +1350,7 @@
       "lng": -61.08,
       "country": "Martinique",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nouakchott",
@@ -1358,7 +1358,7 @@
       "lng": -15.9753,
       "country": "Mauritania",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Port Louis",
@@ -1366,7 +1366,7 @@
       "lng": 57.5,
       "country": "Mauritius",
       "timezone": 4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Mamoudzou",
@@ -1374,7 +1374,7 @@
       "lng": 45.275,
       "country": "Mayotte",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Mexico City",
@@ -1382,7 +1382,7 @@
       "lng": -99.131,
       "country": "Mexico",
       "timezone": -6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tijuana",
@@ -1390,7 +1390,7 @@
       "lng": -116.960193,
       "country": "Mexico (Pacific)",
       "timezone": -8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Hermosillo",
@@ -1398,7 +1398,7 @@
       "lng": -110.960253,
       "country": "Mexico (Mountain)",
       "timezone": -7,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Mexico City",
@@ -1406,7 +1406,7 @@
       "lng": -86.8516295,
       "country": "Mexico (Eastern)",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Chuuk",
@@ -1414,7 +1414,7 @@
       "lng": 151.8563629,
       "country": "Micronesia, Federated States Of Micronesia (Chuuk)",
       "timezone": 10,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Palikir",
@@ -1422,7 +1422,7 @@
       "lng": 158.15,
       "country": "Micronesia, Federated States Of Micronesia (Pohnpei)",
       "timezone": 11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tofol",
@@ -1430,7 +1430,7 @@
       "lng": 163.0061779,
       "country": "Micronesia, Federated States Of Micronesia (Kosrae)",
       "timezone": 11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Chisinau",
@@ -1438,7 +1438,7 @@
       "lng": 28.8577,
       "country": "Moldova",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Monaco",
@@ -1446,7 +1446,7 @@
       "lng": 7.4069,
       "country": "Monaco",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Ulaanbaatar",
@@ -1454,7 +1454,7 @@
       "lng": 106.9166,
       "country": "Mongolia",
       "timezone": 8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Khovd",
@@ -1462,7 +1462,7 @@
       "lng": 91.624891,
       "country": "Mongolia (Khovd)",
       "timezone": 7,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Podgorica",
@@ -1470,7 +1470,7 @@
       "lng": 19.2663,
       "country": "Montenegro",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Plymouth",
@@ -1478,7 +1478,7 @@
       "lng": -4.157448,
       "country": "Montserrat",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Rabat",
@@ -1486,7 +1486,7 @@
       "lng": -6.8361,
       "country": "Morocco",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Maputo",
@@ -1494,7 +1494,7 @@
       "lng": 32.5892,
       "country": "Mozambique",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Windhoek",
@@ -1502,7 +1502,7 @@
       "lng": 17.0835,
       "country": "Namibia",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Yaren",
@@ -1510,7 +1510,7 @@
       "lng": 166.922895,
       "country": "Nauru",
       "timezone": 12,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kathmandu",
@@ -1518,7 +1518,7 @@
       "lng": 85.3166,
       "country": "Nepal",
       "timezone": 5.75,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Amsterdam",
@@ -1526,7 +1526,7 @@
       "lng": 4.9166,
       "country": "Netherlands",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nouméa",
@@ -1534,7 +1534,7 @@
       "lng": 166.4443,
       "country": "New Caledonia",
       "timezone": 11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Wellington",
@@ -1542,7 +1542,7 @@
       "lng": 174.7833,
       "country": "New Zealand",
       "timezone": 13,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Chatham Islands",
@@ -1550,7 +1550,7 @@
       "lng": -176.5450245,
       "country": "New Zealand (Chatham Islands)",
       "timezone": 13.75,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Managua",
@@ -1558,7 +1558,7 @@
       "lng": -86.2685,
       "country": "Nicaragua",
       "timezone": -6,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Niamey",
@@ -1566,7 +1566,7 @@
       "lng": 2.1167,
       "country": "Niger",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Abuja",
@@ -1574,7 +1574,7 @@
       "lng": 7.5333,
       "country": "Nigeria",
       "timezone": 1,
-      "method": "Egyptian General Authority of Survey"
+      "method": 1
     },
     {
       "city": "Alofi",
@@ -1582,7 +1582,7 @@
       "lng": -169.9220015,
       "country": "Niue",
       "timezone": -11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Capitol Hill",
@@ -1590,7 +1590,7 @@
       "lng": 145.7546,
       "country": "Northern Mariana Islands",
       "timezone": 10,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Oslo",
@@ -1598,7 +1598,7 @@
       "lng": 10.75,
       "country": "Norway",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Muscat",
@@ -1606,7 +1606,7 @@
       "lng": 58.5933,
       "country": "Oman",
       "timezone": 4,
-      "method": "Umm Al-Qura"
+      "method": 3
     },
     {
       "city": "Karachi",
@@ -1614,7 +1614,7 @@
       "lng": 66.99,
       "country": "Pakistan",
       "timezone": 5,
-      "method": "University Of Islamic Sciences, Karachi"
+      "method": 2
     },
     {
       "city": "Ngerulmud",
@@ -1622,7 +1622,7 @@
       "lng": 134.6242,
       "country": "Palau",
       "timezone": 9,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Panama City",
@@ -1630,7 +1630,7 @@
       "lng": -79.533,
       "country": "Panama",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Port Moresby",
@@ -1638,7 +1638,7 @@
       "lng": 147.1925,
       "country": "Papua New Guinea",
       "timezone": 10,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Arawa",
@@ -1646,7 +1646,7 @@
       "lng": 155.564124,
       "country": "Papua New Guinea (Bougainville)",
       "timezone": 11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Asunción",
@@ -1654,7 +1654,7 @@
       "lng": -57.6415,
       "country": "Paraguay",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Lima",
@@ -1662,7 +1662,7 @@
       "lng": -77.0501,
       "country": "Peru",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Manila",
@@ -1670,7 +1670,7 @@
       "lng": 120.9822,
       "country": "Philippines",
       "timezone": 8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Adamstown",
@@ -1678,7 +1678,7 @@
       "lng": -130.0987495,
       "country": "Pitcairn",
       "timezone": -8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Warsaw",
@@ -1686,7 +1686,7 @@
       "lng": 21,
       "country": "Poland",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Lisbon",
@@ -1694,7 +1694,7 @@
       "lng": -9.1449,
       "country": "Portugal",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Ponta Delgada",
@@ -1702,7 +1702,7 @@
       "lng": -25.6757307,
       "country": "Portugal (Azores)",
       "timezone": -1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "San Juan",
@@ -1710,7 +1710,7 @@
       "lng": -66.0636,
       "country": "Puerto Rico",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Doha",
@@ -1718,7 +1718,7 @@
       "lng": 51.533,
       "country": "Qatar",
       "timezone": 3,
-      "method": "Umm Al-Qura"
+      "method": 3
     },
     {
       "city": "Saint-Denis",
@@ -1726,7 +1726,7 @@
       "lng": 2.3609525,
       "country": "Réunion",
       "timezone": 4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bucharest",
@@ -1734,7 +1734,7 @@
       "lng": 26.0999,
       "country": "Romania",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kaliningrad",
@@ -1862,7 +1862,7 @@
       "lng": 30.0605,
       "country": "Rwanda",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Gustavia",
@@ -1870,7 +1870,7 @@
       "lng": -62.853245,
       "country": "Saint Barthélemy",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Georgetown",
@@ -1878,7 +1878,7 @@
       "lng": -14.4119,
       "country": "Saint Helena, Ascension, And Tristan Da Cunha",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Basseterre",
@@ -1886,7 +1886,7 @@
       "lng": -62.717,
       "country": "Saint Kitts And Nevis",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Castries",
@@ -1894,7 +1894,7 @@
       "lng": -61,
       "country": "Saint Lucia",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Saint-Pierre",
@@ -1902,7 +1902,7 @@
       "lng": -56.1779555,
       "country": "Saint Pierre and Miquelon",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kingstown",
@@ -1910,7 +1910,7 @@
       "lng": -61.2121,
       "country": "Saint Vincent And The Grenadines",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Apia",
@@ -1918,7 +1918,7 @@
       "lng": -171.7386,
       "country": "Samoa",
       "timezone": 14,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "San Marino",
@@ -1926,7 +1926,7 @@
       "lng": 12.4667,
       "country": "San Marino",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "São Tomé",
@@ -1934,7 +1934,7 @@
       "lng": 6.7333,
       "country": "Sao Tome And Principe",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Riyadh",
@@ -1942,7 +1942,7 @@
       "lng": 46.7727,
       "country": "Saudi Arabia",
       "timezone": 3,
-      "method": "Umm Al-Qura"
+      "method": 3
     },
     {
       "city": "Dakar",
@@ -1950,7 +1950,7 @@
       "lng": -17.4731,
       "country": "Senegal",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Belgrade",
@@ -1958,7 +1958,7 @@
       "lng": 20.468,
       "country": "Serbia",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Victoria",
@@ -1966,7 +1966,7 @@
       "lng": 55.45,
       "country": "Seychelles",
       "timezone": 4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Freetown",
@@ -1974,7 +1974,7 @@
       "lng": -13.2342,
       "country": "Sierra Leone",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Singapore",
@@ -1982,7 +1982,7 @@
       "lng": 103.8558,
       "country": "Singapore",
       "timezone": 8,
-      "method": "Majlis Ugama Islam Singapura"
+      "method": 8
     },
     {
       "city": "Philipsburg",
@@ -1990,7 +1990,7 @@
       "lng": -63.045,
       "country": "Sint Maarten",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bratislava",
@@ -1998,7 +1998,7 @@
       "lng": 17.117,
       "country": "Slovakia",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Ljubljana",
@@ -2006,7 +2006,7 @@
       "lng": 14.5054385,
       "country": "Slovenia",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Honiara",
@@ -2014,7 +2014,7 @@
       "lng": 159.9498,
       "country": "Solomon Islands",
       "timezone": 11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Mogadishu",
@@ -2022,7 +2022,7 @@
       "lng": 45.3667,
       "country": "Somalia",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Cape Town",
@@ -2030,7 +2030,7 @@
       "lng": 18.435,
       "country": "South Africa",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Grytviken",
@@ -2038,7 +2038,7 @@
       "lng": -36.508,
       "country": "South Georgia And South Sandwich Islands",
       "timezone": -2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Juba",
@@ -2046,7 +2046,7 @@
       "lng": 31.58,
       "country": "South Sudan",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Madrid",
@@ -2054,7 +2054,7 @@
       "lng": -3.6834,
       "country": "Spain (Central)",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Las Palmas",
@@ -2062,7 +2062,7 @@
       "lng": -15.4367085,
       "country": "Spain (West)",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Colombo",
@@ -2070,7 +2070,7 @@
       "lng": 79.8578,
       "country": "Sri Lanka",
       "timezone": 5.5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Khartoum",
@@ -2078,7 +2078,7 @@
       "lng": 32.5342,
       "country": "Sudan",
       "timezone": 2,
-      "method": "Egyptian General Authority of Survey"
+      "method": 1
     },
     {
       "city": "Paramaribo",
@@ -2086,7 +2086,7 @@
       "lng": -55.167,
       "country": "Suriname",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Lobamba",
@@ -2094,7 +2094,7 @@
       "lng": 31.2,
       "country": "Swaziland",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Stockholm",
@@ -2102,7 +2102,7 @@
       "lng": 18.0973,
       "country": "Sweden",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bern",
@@ -2110,7 +2110,7 @@
       "lng": 7.467,
       "country": "Switzerland",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Damascus",
@@ -2118,7 +2118,7 @@
       "lng": 36.3,
       "country": "Syria",
       "timezone": 2,
-      "method": "Egyptian General Authority of Survey"
+      "method": 1
     },
     {
       "city": "Taipei",
@@ -2126,7 +2126,7 @@
       "lng": 121.5683,
       "country": "Taiwan",
       "timezone": 8,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Dushanbe",
@@ -2134,7 +2134,7 @@
       "lng": 68.7739,
       "country": "Tajikistan",
       "timezone": 5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Dodoma",
@@ -2142,7 +2142,7 @@
       "lng": 35.75,
       "country": "Tanzania",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Bangkok",
@@ -2150,7 +2150,7 @@
       "lng": 100.5166,
       "country": "Thailand",
       "timezone": 7,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Dili",
@@ -2158,7 +2158,7 @@
       "lng": 125.5795,
       "country": "Timor-leste",
       "timezone": 9,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nukunonu",
@@ -2166,7 +2166,7 @@
       "lng": -171.8495965,
       "country": "Tokelau",
       "timezone": 13,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Lomé",
@@ -2174,7 +2174,7 @@
       "lng": 1.2228,
       "country": "Togo",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Nuku‘alofa",
@@ -2182,7 +2182,7 @@
       "lng": -175.2206,
       "country": "Tonga",
       "timezone": 13,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Port Of Spain",
@@ -2190,7 +2190,7 @@
       "lng": -61.517,
       "country": "Trinidad And Tobago",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tunis",
@@ -2198,7 +2198,7 @@
       "lng": 10.1797,
       "country": "Tunisia",
       "timezone": 1,
-      "method": "University Of Islamic Sciences, Karachi"
+      "method": 2
     },
     {
       "city": "Ankara",
@@ -2206,7 +2206,7 @@
       "lng": 32.8644,
       "country": "Turkey",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Ashgabat",
@@ -2214,7 +2214,7 @@
       "lng": 58.3833,
       "country": "Turkmenistan",
       "timezone": 5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Grand Turk",
@@ -2222,7 +2222,7 @@
       "lng": -71.136,
       "country": "Turks And Caicos Islands",
       "timezone": -5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Funafuti",
@@ -2230,7 +2230,7 @@
       "lng": 179.2166,
       "country": "Tuvalu",
       "timezone": 12,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kampala",
@@ -2238,7 +2238,7 @@
       "lng": 32.5833,
       "country": "Uganda",
       "timezone": 3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Kyiv",
@@ -2246,7 +2246,7 @@
       "lng": 30.5166,
       "country": "Ukraine",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Abu Dhabi",
@@ -2254,7 +2254,7 @@
       "lng": 54.3666,
       "country": "United Arab Emirates",
       "timezone": 4,
-      "method": "Umm Al-Qura"
+      "method": 3
     },
     {
       "city": "London",
@@ -2262,7 +2262,7 @@
       "lng": -0.1167,
       "country": "United Kingdom",
       "timezone": 0,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Honolulu",
@@ -2270,7 +2270,7 @@
       "lng": -157.8568611,
       "country": "United States (Hawaii)",
       "timezone": -10,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Anchorage",
@@ -2278,7 +2278,7 @@
       "lng": -149.874859,
       "country": "United States (Alaska)",
       "timezone": -9,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Washington",
@@ -2286,7 +2286,7 @@
       "lng": -77.0163,
       "country": "United States",
       "timezone": -8,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Salt Lake City",
@@ -2294,7 +2294,7 @@
       "lng": -111.902213,
       "country": "United States (Mountain)",
       "timezone": -7,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Chicago",
@@ -2302,7 +2302,7 @@
       "lng": -87.6859065,
       "country": "United States (Central)",
       "timezone": -6,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "New York",
@@ -2310,7 +2310,7 @@
       "lng": -73.828116,
       "country": "United States (Eastern)",
       "timezone": -5,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Virgin Islands",
@@ -2318,7 +2318,7 @@
       "lng": -64.7501249,
       "country": "United States (Virgin Islands)",
       "timezone": -4,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Montevideo",
@@ -2326,7 +2326,7 @@
       "lng": -56.1711,
       "country": "Uruguay",
       "timezone": -3,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Tashkent",
@@ -2334,7 +2334,7 @@
       "lng": 69.2949,
       "country": "Uzbekistan",
       "timezone": 5,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Vatican City",
@@ -2342,7 +2342,7 @@
       "lng": 12.4516325,
       "country": "Vatican",
       "timezone": 1,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Port-vila",
@@ -2350,7 +2350,7 @@
       "lng": 168.3166,
       "country": "Vanuatu",
       "timezone": 11,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Caracas",
@@ -2358,7 +2358,7 @@
       "lng": -66.917,
       "country": "Venezuela",
       "timezone": -4,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Hanoi",
@@ -2366,7 +2366,7 @@
       "lng": 105.85,
       "country": "Vietnam",
       "timezone": 7,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Wake",
@@ -2374,7 +2374,7 @@
       "lng": 166.6498051,
       "country": "Wake Island",
       "timezone": 12,
-      "method": "Islamic Society of North America"
+      "method": 6
     },
     {
       "city": "Leava",
@@ -2382,7 +2382,7 @@
       "lng": -178.1583,
       "country": "Wallis And Futuna",
       "timezone": 12,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Sanaa",
@@ -2390,7 +2390,7 @@
       "lng": 44.2066,
       "country": "Yemen",
       "timezone": 3,
-      "method": "Umm Al-Qura"
+      "method": 3
     },
     {
       "city": "Lusaka",
@@ -2398,7 +2398,7 @@
       "lng": 28.2833,
       "country": "Zambia",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     },
     {
       "city": "Harare",
@@ -2406,7 +2406,7 @@
       "lng": 31.0447,
       "country": "Zimbabwe",
       "timezone": 2,
-      "method": "Muslim World League"
+      "method": 0
     }
   ]
 }

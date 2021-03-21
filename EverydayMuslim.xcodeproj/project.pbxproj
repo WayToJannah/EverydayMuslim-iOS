@@ -23,6 +23,8 @@
 		C7D22DF426078AC00025E2E5 /* districts.json in Resources */ = {isa = PBXBuildFile; fileRef = C7D22DF126078AC00025E2E5 /* districts.json */; };
 		C7D22DF926078BAE0025E2E5 /* BanglaDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D22DF826078BAE0025E2E5 /* BanglaDate.swift */; };
 		C7D22DFF26078C5F0025E2E5 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D22DFE26078C5F0025E2E5 /* Util.swift */; };
+		C7D22E09260804740025E2E5 /* MapKit+Ex.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D22E08260804730025E2E5 /* MapKit+Ex.swift */; };
+		C7D22E112608056A0025E2E5 /* LocationData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D22E102608056A0025E2E5 /* LocationData.swift */; };
 		D3827970389661858CC07459 /* Pods_EverydayMuslimTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAA7AF04C044406BCF07A697 /* Pods_EverydayMuslimTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -70,6 +72,8 @@
 		C7D22DF126078AC00025E2E5 /* districts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = districts.json; sourceTree = "<group>"; };
 		C7D22DF826078BAE0025E2E5 /* BanglaDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BanglaDate.swift; sourceTree = "<group>"; };
 		C7D22DFE26078C5F0025E2E5 /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
+		C7D22E08260804730025E2E5 /* MapKit+Ex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MapKit+Ex.swift"; sourceTree = "<group>"; };
+		C7D22E102608056A0025E2E5 /* LocationData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationData.swift; sourceTree = "<group>"; };
 		E244EDA538944E30B0FE7923 /* Pods-EverydayMuslimTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslimTests.debug.xcconfig"; path = "Target Support Files/Pods-EverydayMuslimTests/Pods-EverydayMuslimTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E9F330BE43A42A315B913FBE /* Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig"; path = "Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests.release.xcconfig"; sourceTree = "<group>"; };
 		FC9F1D2968701D4A173DE14C /* Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig"; path = "Target Support Files/Pods-EverydayMuslim-EverydayMuslimUITests/Pods-EverydayMuslim-EverydayMuslimUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -151,6 +155,7 @@
 		C7290B8626061B95005580C5 /* EverydayMuslim */ = {
 			isa = PBXGroup;
 			children = (
+				C7D22E072608045C0025E2E5 /* Extension */,
 				C7D22DFD26078C4E0025E2E5 /* Util */,
 				C7D22DEA260784990025E2E5 /* App */,
 				C7D22DE1260773950025E2E5 /* Scene */,
@@ -183,8 +188,8 @@
 		C7D22DDD260770CF0025E2E5 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				C7D22DE52607751F0025E2E5 /* CalculationMethod+Ex.swift */,
 				C7D22DF826078BAE0025E2E5 /* BanglaDate.swift */,
+				C7D22E102608056A0025E2E5 /* LocationData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -248,6 +253,15 @@
 				C7D22DFE26078C5F0025E2E5 /* Util.swift */,
 			);
 			path = Util;
+			sourceTree = "<group>";
+		};
+		C7D22E072608045C0025E2E5 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				C7D22DE52607751F0025E2E5 /* CalculationMethod+Ex.swift */,
+				C7D22E08260804730025E2E5 /* MapKit+Ex.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -491,6 +505,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7D22E112608056A0025E2E5 /* LocationData.swift in Sources */,
+				C7D22E09260804740025E2E5 /* MapKit+Ex.swift in Sources */,
 				C7D22DFF26078C5F0025E2E5 /* Util.swift in Sources */,
 				C7D22DF926078BAE0025E2E5 /* BanglaDate.swift in Sources */,
 				C7290B8C26061B95005580C5 /* ViewController.swift in Sources */,
