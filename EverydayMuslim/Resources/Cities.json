@@ -1,0 +1,251 @@
+{
+    "cities" : [
+        {
+            "name": "Andorra",
+            "latitude": 42.5421842 ,
+            "longitude": 1.4572409,
+            "isoCode" : "AD",
+            "timeZone" : "Europe/Andorra",
+            "method": 0
+        },
+        {
+            "name": "Dubai, United Arab Emirates",
+            "latitude": 25.0750853,
+            "longitude": 54.947555,
+            "isoCode" : "AE",
+            "timeZone" : "Asia/Dubai",
+            "method": 3
+        },
+        {
+            "name": "Kabul, Afghanistan",
+            "latitude": 34.5533853,
+            "longitude": 68.9168382,
+            "isoCode" : "AF",
+            "timeZone" : "Asia/Kabul",
+            "method": 2
+        },
+        {
+            "name": "Antigua, Antigua and Barbuda",
+            "latitude": 17.0856209,
+            "longitude": -61.9300225,
+            "isoCode" : "AG",
+            "timeZone" : "America/Antigua",
+            "method": 0
+        },
+        {
+            "name": "Anguilla",
+            "latitude": 18.3896623,
+            "longitude": -63.4810519,
+            "isoCode" : "AI",
+            "timeZone" : "America/Anguilla",
+            "method": 0
+        },
+        {
+            "name": "Tirane, Albania",
+            "latitude": 41.3309609,
+            "longitude": 19.7476106,
+            "isoCode" : "AL",
+            "timeZone" : "Europe/Tirane",
+            "method": 0
+        },
+        {
+            "name": "Yerevan, Armenia",
+            "latitude": 40.1533056,
+            "longitude": 44.3481354,
+            "isoCode" : "AM",
+            "timeZone" : "Asia/Yerevan",
+            "method": 0
+        },
+        {
+            "name": "Luanda, Angola",
+            "latitude": -8.8535062,
+            "longitude": 13.1436689,
+            "isoCode" : "AO",
+            "timeZone" : "Africa/Luanda",
+            "method": 0
+        },
+        {
+            "name": "McMurdo Station, Antarctica",
+            "latitude": -77.8400925,
+            "longitude": 166.5741459,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/McMurdo",
+            "method": 0
+        },
+        {
+            "name": "Casey Station, Antarctica",
+            "latitude": -66.2818959,
+            "longitude": 110.5184161,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/Casey",
+            "method": 0
+        },
+        {
+            "name": "Davis Station, Antarctica",
+            "latitude": -68.5767736,
+            "longitude": 77.9595207,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/Davis",
+            "method": 0
+        },
+        {
+            "name": "Dumont D'Urville Station, Antarctica",
+            "latitude": -66.6630267,
+            "longitude": 139.9996324,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/DumontDUrville",
+            "method": 0
+        },
+        {
+            "name": "Palmer Archipelago, Antarctica",
+            "latitude": -64.1290708,
+            "longitude": -64.4278353,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/Palmer",
+            "method": 0
+        },
+        {
+            "name": "Rothera Research Station, Antarctica",
+            "latitude": -67.5638362,
+            "longitude": -68.125994,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/Rothera",
+            "method": 0
+        },
+        {
+            "name": "Syowa Station, Antarctica",
+            "latitude": -69.0047403,
+            "longitude": 39.5784617,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/Syowa",
+            "method": 0
+        },
+        {
+            "name": "Troll Station, Antarctica",
+            "latitude": -72.0124876,
+            "longitude": 2.530026,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/Troll",
+            "method": 0
+        },
+        {
+            "name": "Vostok Station, Antarctica",
+            "latitude": -78.4644829,
+            "longitude": 106.831726,
+            "isoCode" : "AQ",
+            "timeZone" : "Antarctica/Vostok",
+            "method": 0
+        },
+        {
+            "name": "Buenos Aires, Argentina",
+            "latitude":  -34.6157433,
+            "longitude": -58.5737311,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Buenos_Aires",
+            "method": 0
+        },
+        {
+            "name": "Córdoba, Argentina",
+            "latitude": -31.3993767,
+            "longitude": -64.3347772,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Cordoba",
+            "method": 0
+        },
+        {
+            "name": "Salta, Argentina",
+            "latitude": -24.7960193,
+            "longitude": -65.5710628,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Salta",
+            "method": 0
+        },
+        {
+            "name": "Jujuy, Argentina",
+            "latitude": -24.2053236,
+            "longitude": -65.3757686,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Jujuy",
+            "method": 0
+        },
+        {
+            "name": "Tucumán, Argentina",
+            "latitude": -26.8328417,
+            "longitude": -65.292634,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Tucuman",
+            "method": 0
+        },
+        {
+            "name": "Catamarca, Argentina",
+            "latitude": -28.464516,
+            "longitude": -65.845373,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Catamarca",
+            "method": 0
+        },
+        {
+            "name": "La Rioja, Argentina",
+            "latitude": -29.4142785,
+            "longitude": -66.9259902,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/La_Rioja",
+            "method": 0
+        },
+        {
+            "name": "San Juan, Argentina",
+            "latitude": -31.5317707,
+            "longitude": -68.5677823,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/San_Juan",
+            "method": 0
+        },
+        {
+            "name": "Mendoza, Argentina",
+            "latitude": -32.8833303,
+            "longitude": -68.8936247,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Mendoza",
+            "method": 0
+        },
+        {
+            "name": "San Luis, Argentina",
+            "latitude": -33.2976373,
+            "longitude": -66.3797058,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/San_Luis",
+            "method": 0
+        },
+        {
+            "name": "Rio Gallegos, Argentina",
+            "latitude": -51.6264277,
+            "longitude": -69.3419613,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Rio_Gallegos",
+            "method": 0
+        },
+        {
+            "name": "Ushuaia, Argentina",
+            "latitude": -54.806843,
+            "longitude": -68.3728428,
+            "isoCode" : "AR",
+            "timeZone" : "America/Argentina/Ushuaia",
+            "method": 0
+        },
+        {
+            "name": "Pago Pago, American Samoa",
+            "latitude": -14.2777617,
+            "longitude": -170.7127699,
+            "isoCode" : "AS",
+            "timeZone" : "Pacific/Pago_Pago",
+            "method": 0
+        },
+       
+        
+        
+   
+    ]
+}
+
+
+

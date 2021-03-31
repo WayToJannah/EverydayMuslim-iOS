@@ -13,9 +13,10 @@ class LocationData {
     /// `LocationData` shared object
     static let shared = LocationData()
     
-    static var cityName: String = ""
-    static var isoCountryCode: String = ""
-    static var countryName: String = ""
+    static var cityName: String? = nil
+    static var isoCountryCode: String? = nil
+    static var countryName: String? = nil
+    static var timeZone: TimeZone? = nil
     static var location: CLLocation? = nil
     
     /// Get Geocode data in .userInitiated queue and update UI in main thread
@@ -28,10 +29,11 @@ class LocationData {
         onStart()
         DispatchQueue.global(qos: .userInitiated).async {
             location.fetchPlaceInfo { (placemark, error) in
-                guard let city = placemark?.locality,let country = placemark?.country,let isoCountryCode = placemark?.isoCountryCode, error == nil else { return }
+                guard let city = placemark?.locality,let country = placemark?.country,let isoCountryCode = placemark?.isoCountryCode, let timeZone = placemark?.timeZone, error == nil else { return }
                 self.cityName = city
                 self.countryName = country
                 self.isoCountryCode = isoCountryCode
+                self.timeZone = timeZone
                 DispatchQueue.main.async {
                     onFinish()
                 }

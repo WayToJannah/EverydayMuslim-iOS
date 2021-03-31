@@ -1,913 +1,926 @@
 {
-    "Countries":  [
-        {
-            "country": "Afghanistan",
-            "isoCode": "AF"
-            , "method": 2
-        },
-        {
-            "country": "Albania",
-            "isoCode": "AL"
-            , "method": 0
-        },
-        {
-            "country": "Algeria",
-            "isoCode": "DZ"
-            , "method": 1
-        },
-        {
-            "country": "Angola",
-            "isoCode": "AO"
-            , "method": 0
-        },
-        {
-            "country": "Anguilla",
-            "isoCode": "AI"
-            , "method": 0
-        },
-        {
-            "country": "Antigua and Barbuda",
-            "isoCode": "AG"
-            , "method": 0
-        },
-        {
-            "country": "Argentina",
-            "isoCode": "AR"
-            , "method": 0
-        },
-        {
-            "country": "Armenia",
-            "isoCode": "AM"
-            , "method": 0
-        },
-        {
-            "country": "Aruba",
-            "isoCode": "AW"
-            , "method": 0
-        },
-        {
-            "country": "Australia",
-            "isoCode": "AU"
-            , "method": 0
-        },
-        {
-            "country": "Austria",
-            "isoCode": "AT"
-            , "method": 0
-        },
-        {
-            "country": "Azerbaijan",
-            "isoCode": "AZ"
-            , "method": 0
-        },
-        {
-            "country": "Bahamas",
-            "isoCode": "BS"
-            , "method": 0
-        },
-        {
-            "country": "Bahrain",
-            "isoCode": "BH"
-            , "method": 3
-        },
-        {
-            "country": "Bangladesh",
-            "isoCode": "BD"
-            , "method": 2
-        },
-        {
-            "country": "Barbados",
-            "isoCode": "BB"
-            , "method": 0
-        },
-        {
-            "country": "Belarus",
-            "isoCode": "BY"
-            , "method": 0
-        },
-        {
-            "country": "Belgium",
-            "isoCode": "BE"
-            , "method": 0
-        },{
-            "country": "Belize",
-            "isoCode": "BZ"
-            , "method": 0
-        },
-        {
-            "country": "Benin",
-            "isoCode": "BJ"
-            , "method": 0
-        },
-        {
-            "country": "Bhutan",
-            "isoCode": "BT"
-            , "method": 0
-        },
-        {
-            "country": "Bolivia",
-            "isoCode": "BO"
-            , "method": 0
-        },
-        {
-            "country": "Bosnia-Herzegovina",
-            "isoCode": "BA"
-            , "method": 0
-        },
-        {
-            "country": "Botswana",
-            "isoCode": "BW"
-            , "method": 0
-        },
-        {
-            "country": "Brazil",
-            "isoCode": "BR"
-            , "method": 0
-        },
-        {
-            "country": "British Virgin Islands",
-            "isoCode": "VG"
-            , "method": 0
-        },
-        {
-            "country": "Bulgaria",
-            "isoCode": "BG"
-            , "method": 0
-        },
-        {
-            "country": "Burkina Faso",
-            "isoCode": "BF"
-            , "method": 0
-        },
-        {
-            "country": "Burundi",
-            "isoCode": "BI"
-            , "method": 0
-        },
-        {
-            "country": "Cambodia",
-            "isoCode": "KH"
-            , "method": 0
-        },
-        {
-            "country": "Cameroon",
-            "isoCode": "CM"
-            , "method": 0
-        },
-        {
-            "country": "Canada",
-            "isoCode": "CA"
-            , "method": 6
-        },
-        {
-            "country": "Cayman Islands",
-            "isoCode": "KY"
-            , "method": 0
-        },
-        {
-            "country": "Central African Republic",
-            "isoCode": "CF"
-            , "method": 0
-        },
-        {
-            "country": "Chad",
-            "isoCode": "TD"
-            , "method": 0
-        },
-        {
-            "country": "Chile",
-            "isoCode": "CL"
-            , "method": 0
-        },
-        {
-            "country": "China",
-            "isoCode": "CN"
-            , "method": 0
-        },
-        {
-            "country": "Colombia",
-            "isoCode": "CO"
-            , "method": 0
-        },
-        {
-            "country": "Congo",
-            "isoCode": "CG"
-            , "method": 0
-        },
-        {
-            "country": "Costa Rica",
-            "isoCode": "CR"
-            , "method": 0
-        },
-        {
-            "country": "Croatia",
-            "isoCode": "HR"
-            , "method": 0
-        },
-        {
-            "country": "Cuba",
-            "isoCode": "CU"
-            , "method": 0
-        },
-        {
-            "country": "Cyprus",
-            "isoCode": "CY"
-            , "method": 0
-        },
-        {
-            "country": "Czech Republic",
-            "isoCode": "CZ"
-            , "method": 0
-        },
-        {
-            "country": "Democratic Republic Congo",
-            "isoCode": "CD"
-            , "method": 0
-        },
-        {
-            "country": "Denmark",
-            "isoCode": "DK"
-            , "method": 0
-        },
-        {
-            "country": "Djibouti",
-            "isoCode": "DJ"
-            , "method": 0
-        },
-        {
-            "country": "Dominica",
-            "isoCode": "DM"
-            , "method": 0
-        },
-        {
-            "country": "Dominican Republic",
-            "isoCode": "DO"
-            , "method": 0
-        },
-        {
-            "country": "Ecuador",
-            "isoCode": "EC"
-            , "method": 0
-        },
-        {
-            "country": "Egypt",
-            "isoCode": "EG"
-            , "method": 1
-        },
-        {
-            "country": "El Salvador",
-            "isoCode": "SV"
-            , "method": 0
-        },
-        {
-            "country": "Equatorial Guinea",
-            "isoCode": "GQ"
-            , "method": 0
-        },
-        {
-            "country": "Eritrea",
-            "isoCode": "ER"
-            , "method": 0
-        },
-        {
-            "country": "Estonia",
-            "isoCode": "EE"
-            , "method": 0
-        },
-        {
-            "country": "Ethiopia",
-            "isoCode": "ET"
-            , "method": 0
-        },
-        {
-            "country": "Falkland Islands",
-            "isoCode": "FK"
-            , "method": 0
-        },
-        {
-            "country": "Fiji",
-            "isoCode": "FJ"
-            , "method": 0
-        },
-        {
-            "country": "Finland",
-            "isoCode": "FI"
-            , "method": 0
-        },
-        {
-            "country": "France",
-            "isoCode": "FR"
-            , "method": 5
-        },
-        {
-            "country": "French Guiana",
-            "isoCode": "GF"
-            , "method": 0
-        },
-        {
-            "country": "Gabon",
-            "isoCode": "GA"
-            , "method": 0
-        },
-        {
-            "country": "Gambia",
-            "isoCode": "GM"
-            , "method": 0
-        },
-        {
-            "country": "Georgia",
-            "isoCode": "GE"
-            , "method": 0
-        },
-        {
-            "country": "Germany",
-            "isoCode": "DE"
-            , "method": 0
-        },
-        {
-            "country": "Ghana",
-            "isoCode": "GH"
-            , "method": 0
-        },
-        {
-            "country": "Gibraltar",
-            "isoCode": "GI"
-            , "method": 0
-        },
-        
-        // START FROM Greece
-        {
-            "country": "Greece",
-            "isoCode": "GR"
-            , "method": 0
-        },
-        {
-            "country": "Grenada",
-            "isoCode": "GD"
-            , "method": 0
-        },
-        {
-            "country": "Guatemala",
-            "isoCode": "GT"
-            , "method": 0
-        },
-        {
-            "country": "Guinea",
-            "isoCode": "GN"
-            , "method": 0
-        },
-        {
-            "country": "Guinea Bissau",
-            "isoCode": "GW"
-            , "method": 0
-        },
-        {
-            "country": "Guyana",
-            "isoCode": "GY"
-            , "method": 0
-        },
-        {
-            "country": "Haiti",
-            "isoCode": "HT"
-            , "method": 0
-        },
-        {
-            "country": "Honduras",
-            "isoCode": "HN"
-            , "method": 0
-        },
-        {
-            "country": "Hong Kong",
-            "isoCode": "HK"
-            , "method": 0
-        },
-        {
-            "country": "Hungary",
-            "isoCode": "HU"
-            , "method": 0
-        },
-        {
-            "country": "India",
-            "isoCode": "IN"
-            , "method": 2
-        },
-        {
-            "country": "Indonesia",
-            "isoCode": "ID"
-            , "method": 0
-        },
-        {
-            "country": "Iran",
-            "isoCode": "IR"
-            , "method": 0
-        },
-        {
-            "country": "Iraq",
-            "isoCode": "IQ"
-            , "method": 0
-        },
-        {
-            "country": "Ireland",
-            "isoCode": "IE"
-            , "method": 0
-        },
-        {
-            "country": "Isle Of Man",
-            "isoCode": "IM"
-            , "method": 0
-        },
-        {
-            "country": "Italy",
-            "isoCode": "IT"
-            , "method": 0
-        },
-        {
-            "country": "Jamaica",
-            "isoCode": "JM"
-            , "method": 0
-        },
-        {
-            "country": "Japan",
-            "isoCode": "JP"
-            , "method": 0
-        },
-        {
-            "country": "Jordan",
-            "isoCode": "JO"
-            , "method": 3
-        },
-        {
-            "country": "Kazakhstan",
-            "isoCode": "KZ"
-            , "method": 0
-        },
-        {
-            "country": "Kenya",
-            "isoCode": "KE"
-            , "method": 0
-        },
-        {
-            "country": "Kosovo",
-            "isoCode": "XK"
-            , "method": 0
-        },
-        {
-            "country": "Kuwait",
-            "isoCode": "KW"
-            , "method": 3
-        },
-        {
-            "country": "Kyrgyzstan",
-            "isoCode": "KG"
-            , "method": 0
-        },
-        {
-            "country": "Latvia",
-            "isoCode": "LV"
-            , "method": 0
-        },
-        {
-            "country": "Lebanon",
-            "isoCode": "LB"
-            , "method": 0
-        },
-        {
-            "country": "Liberia",
-            "isoCode": "LR"
-            , "method": 0
-        },
-        {
-            "country": "Libya",
-            "isoCode": "LY"
-            , "method": 1
-        },
-        {
-            "country": "Lithuania",
-            "isoCode": "LT"
-            , "method": 0
-        },
-        {
-            "country": "Luxembourg",
-            "isoCode": "LU"
-            , "method": 0
-        },
-        {
-            "country": "Madagascar",
-            "isoCode": "MG"
-            , "method": 0
-        },
-        {
-            "country": "Malawi",
-            "isoCode": "MW"
-            , "method": 0
-        },
-        {
-            "country": "Malaysia",
-            "isoCode": "MY"
-            , "method": 0
-        },
-        {
-            "country": "Maldives",
-            "isoCode": "MV"
-            , "method": 0
-        },
-        {
-            "country": "Malta",
-            "isoCode": "MT"
-            , "method": 0
-        },
-        {
-            "country": "Martinique",
-            "isoCode": "MQ"
-            , "method": 0
-        },
-        {
-            "country": "Mauritania",
-            "isoCode": "MR"
-            , "method": 0
-        },
-        {
-            "country": "Mexico",
-            "isoCode": "MX"
-            , "method": 0
-        },
-        {
-            "country": "Moldova",
-            "isoCode": "MD"
-            , "method": 0
-        },
-        {
-            "country": "Monaco",
-            "isoCode": "MC"
-            , "method": 0
-        },
-        {
-            "country": "Montserrat",
-            "isoCode": "MS"
-            , "method": 0
-        },
-        {
-            "country": "Morocco",
-            "isoCode": "MA"
-            , "method": 0
-        },
-        {
-            "country": "Mozambique",
-            "isoCode": "MZ"
-            , "method": 0
-        },
-        {
-            "country": "Myanmar",
-            "isoCode": "MM"
-            , "method": 0
-        },
-        {
-            "country": "Namibia",
-            "isoCode": "NA"
-            , "method": 0
-        },
-        {
-            "country": "Nepal",
-            "isoCode": "NP"
-            , "method": 0
-        },
-        {
-            "country": "Netherlands",
-            "isoCode": "NL"
-            , "method": 0
-        },
-        {
-            "country": "New Zealand",
-            "isoCode": "NZ"
-            , "method": 0
-        },
-        {
-            "country": "Nicaragua",
-            "isoCode": "NI"
-            , "method": 0
-        },
-        {
-            "country": "Niger",
-            "isoCode": "NE"
-            , "method": 0
-        },
-        {
-            "country": "Nigeria",
-            "isoCode": "NG"
-            , "method": 1
-        },
-        {
-            "country": "North Korea",
-            "isoCode": "KP"
-            , "method": 0
-        },
-        {
-            "country": "Norway",
-            "isoCode": "NO"
-            , "method": 0
-        },
-        {
-            "country": "Oman",
-            "isoCode": "OM"
-            , "method": 3
-        },
-        {
-            "country": "Pakistan",
-            "isoCode": "PK"
-            , "method": 2
-        },
-        {
-            "country": "Palestine",
-            "isoCode": "PS"
-            , "method": 0
-        },
-        {
-            "country": "Panama",
-            "isoCode": "PA"
-            , "method": 0
-        },
-        {
-            "country": "Papua New Guinea",
-            "isoCode": "PG"
-            , "method": 0
-        },
-        {
-            "country": "Paraguay",
-            "isoCode": "PY"
-            , "method": 0
-        },
-        {
-            "country": "Peru",
-            "isoCode": "PE"
-            , "method": 0
-        },
-        {
-            "country": "Philippines",
-            "isoCode": "PH"
-            , "method": 0
-        },
-        {
-            "country": "Poland",
-            "isoCode": "PL"
-            , "method": 0
-        },
-        {
-            "country": "Portugal",
-            "isoCode": "PT"
-            , "method": 0
-        },
-        {
-            "country": "Puerto Rico",
-            "isoCode": "PR"
-            , "method": 0
-        },
-        {
-            "country": "Qatar",
-            "isoCode": "QA"
-            , "method": 3
-        },
-        {
-            "country": "Romania",
-            "isoCode": "RO"
-            , "method": 0
-        },
-        {
-            "country": "Russia",
-            "isoCode": "RU"
-            , "method": 0
-        },
-        {
-            "country": "Rwanda",
-            "isoCode": "RW"
-            , "method": 0
-        },
-        {
-            "country": "Saint Lucia",
-            "isoCode": "LC"
-            , "method": 0
-        },
-        {
-            "country": "Saint Vincent and the Grenadines",
-            "isoCode": "VC"
-            , "method": 0
-        },
-        {
-            "country": "Saudi Arabia",
-            "isoCode": "SA"
-            , "method": 3
-        },
-        {
-            "country": "Senegal",
-            "isoCode": "SN"
-            , "method": 0
-        },
-        {
-            "country": "Seychelles",
-            "isoCode": "SC"
-            , "method": 0
-        },
-        {
-            "country": "Sierra Leone",
-            "isoCode": "SL"
-            , "method": 0
-        },
-        {
-            "country": "Singapore",
-            "isoCode": "SG"
-            , "method": 9
-        },
-        {
-            "country": "Slovakia",
-            "isoCode": "SK"
-            , "method": 0
-        },
-        {
-            "country": "Slovenia",
-            "isoCode": "SI"
-            , "method": 0
-        },
-        {
-            "country": "Solomon Islands",
-            "isoCode": "SB"
-            , "method": 0
-        },
-        {
-            "country": "Somalia",
-            "isoCode": "SO"
-            , "method": 0
-        },
-        {
-            "country": "South Africa",
-            "isoCode": "ZA"
-            , "method": 0
-        },
-        {
-            "country": "South Korea",
-            "isoCode": "KR"
-            , "method": 0
-        },
-        {
-            "country": "South Sudan",
-            "isoCode": "SS"
-            , "method": 1
-        },
-        {
-            "country": "Spain",
-            "isoCode": "ES"
-            , "method": 0
-        },
-        {
-            "country": "Sri Lanka",
-            "isoCode": "LK"
-            , "method": 0
-        },
-        {
-            "country": "Sudan",
-            "isoCode": "SD"
-            , "method": 1
-        },
-        {
-            "country": "Suriname",
-            "isoCode": "SR"
-            , "method": 0
-        },
-        {
-            "country": "Swaziland",
-            "isoCode": "SZ"
-            , "method": 0
-        },
-        {
-            "country": "Sweden",
-            "isoCode": "SE"
-            , "method": 0
-        },
-        {
-            "country": "Switzerland",
-            "isoCode": "CH"
-            , "method": 0
-        },
-        {
-            "country": "Syria",
-            "isoCode": "SY"
-            , "method": 3
-        },
-        {
-            "country": "Taiwan",
-            "isoCode": "TW"
-            , "method": 0
-        },
-        {
-            "country": "Tajikistan",
-            "isoCode": "TJ"
-            , "method": 0
-        },
-        {
-            "country": "Tanzania",
-            "isoCode": "TZ"
-            , "method": 0
-        },
-        {
-            "country": "Thailand",
-            "isoCode": "TH"
-            , "method": 0
-        },
-        {
-            "country": "Togo",
-            "isoCode": "TG"
-            , "method": 0
-        },
-        {
-            "country": "Trinidad And Tobago",
-            "isoCode": "TT"
-            , "method": 0
-        },
-        {
-            "country": "Tunisia",
-            "isoCode": "TN"
-            , "method": 0
-        },
-        {
-            "country": "Turkey",
-            "isoCode": "TR"
-            , "method": 0
-        },
-        {
-            "country": "Turkmenistan",
-            "isoCode": "TM"
-            , "method": 0
-        },
-        {
-            "country": "Turks Caicos Islands",
-            "isoCode": "TC"
-            , "method": 0
-        },
-        {
-            "country": "Uganda",
-            "isoCode": "UG"
-            , "method": 0
-        },
-        {
-            "country": "UK",
-            "isoCode": "GB"
-            , "method": 6
-        },
-        {
-            "country": "Ukraine",
-            "isoCode": "UA"
-            , "method": 0
-        },
-        {
-            "country": "United Arab Emirates",
-            "isoCode": "AE"
-            , "method": 3
-        },
-        {
-            "country": "United States Virgin Islands",
-            "isoCode": "VI"
-            , "method": 0
-        },
-        {
-            "country": "Uruguay",
-            "isoCode": "UY"
-            , "method": 0
-        },
-        {
-            "country": "USA",
-            "isoCode": "US"
-            , "method": 6
-        },
-        {
-            "country": "Uzbekistan",
-            "isoCode": "UZ"
-            , "method": 0
-        },
-        {
-            "country": "Venezuela",
-            "isoCode": "VE"
-            , "method": 0
-        },
-        {
-            "country": "Vietnam",
-            "isoCode": "VN"
-            , "method": 0
-        },
-        {
-            "country": "Yemen",
-            "isoCode": "YE"
-            , "method": 3
-        },
-        {
-            "country": "Zambia",
-            "isoCode": "ZM"
-            , "method": 0
-        },
-        {
-            "country": "Zimbabwe",
-            "isoCode": "ZW"
-            , "method": 0
-        },
-        
-    ]
+  "countries": [
+    {
+      "country": "Afghanistan",
+      "isoCode": "AF",
+      "method": 2
+    },
+    {
+      "country": "Albania",
+      "isoCode": "AL",
+      "method": 0
+    },
+    {
+      "country": "Andorra",
+      "isoCode": "AD",
+      "method": 0
+    },
+    {
+      "country": "Algeria",
+      "isoCode": "DZ",
+      "method": 1
+    },
+    {
+      "country": "Angola",
+      "isoCode": "AO",
+      "method": 0
+    },
+    {
+      "country": "Anguilla",
+      "isoCode": "AI",
+      "method": 0
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "isoCode": "AG",
+      "method": 0
+    },
+    {
+      "country": "Argentina",
+      "isoCode": "AR",
+      "method": 0
+    },
+    {
+      "country": "Armenia",
+      "isoCode": "AM",
+      "method": 0
+    },
+    {
+      "country": "Aruba",
+      "isoCode": "AW",
+      "method": 0
+    },
+    {
+      "country": "Australia",
+      "isoCode": "AU",
+      "method": 0
+    },
+    {
+      "country": "Austria",
+      "isoCode": "AT",
+      "method": 0
+    },
+    {
+      "country": "Azerbaijan",
+      "isoCode": "AZ",
+      "method": 0
+    },
+    {
+      "country": "Antarctica",
+      "isoCode": "AQ",
+      "method": 0
+    },
+    {
+      "country": "American Samoa",
+      "isoCode": "AS",
+      "method": 0
+    },
+    {
+      "country": "Bahamas",
+      "isoCode": "BS",
+      "method": 0
+    },
+    {
+      "country": "Bahrain",
+      "isoCode": "BH",
+      "method": 3
+    },
+    {
+      "country": "Bangladesh",
+      "isoCode": "BD",
+      "method": 2
+    },
+    {
+      "country": "Barbados",
+      "isoCode": "BB",
+      "method": 0
+    },
+    {
+      "country": "Belarus",
+      "isoCode": "BY",
+      "method": 0
+    },
+    {
+      "country": "Belgium",
+      "isoCode": "BE",
+      "method": 0
+    },
+    {
+      "country": "Belize",
+      "isoCode": "BZ",
+      "method": 0
+    },
+    {
+      "country": "Benin",
+      "isoCode": "BJ",
+      "method": 0
+    },
+    {
+      "country": "Bhutan",
+      "isoCode": "BT",
+      "method": 0
+    },
+    {
+      "country": "Bolivia",
+      "isoCode": "BO",
+      "method": 0
+    },
+    {
+      "country": "Bosnia-Herzegovina",
+      "isoCode": "BA",
+      "method": 0
+    },
+    {
+      "country": "Botswana",
+      "isoCode": "BW",
+      "method": 0
+    },
+    {
+      "country": "Brazil",
+      "isoCode": "BR",
+      "method": 0
+    },
+    {
+      "country": "British Virgin Islands",
+      "isoCode": "VG",
+      "method": 0
+    },
+    {
+      "country": "Bulgaria",
+      "isoCode": "BG",
+      "method": 0
+    },
+    {
+      "country": "Burkina Faso",
+      "isoCode": "BF",
+      "method": 0
+    },
+    {
+      "country": "Burundi",
+      "isoCode": "BI",
+      "method": 0
+    },
+    {
+      "country": "Cambodia",
+      "isoCode": "KH",
+      "method": 0
+    },
+    {
+      "country": "Cameroon",
+      "isoCode": "CM",
+      "method": 0
+    },
+    {
+      "country": "Canada",
+      "isoCode": "CA",
+      "method": 6
+    },
+    {
+      "country": "Cayman Islands",
+      "isoCode": "KY",
+      "method": 0
+    },
+    {
+      "country": "Central African Republic",
+      "isoCode": "CF",
+      "method": 0
+    },
+    {
+      "country": "Chad",
+      "isoCode": "TD",
+      "method": 0
+    },
+    {
+      "country": "Chile",
+      "isoCode": "CL",
+      "method": 0
+    },
+    {
+      "country": "China",
+      "isoCode": "CN",
+      "method": 0
+    },
+    {
+      "country": "Colombia",
+      "isoCode": "CO",
+      "method": 0
+    },
+    {
+      "country": "Congo",
+      "isoCode": "CG",
+      "method": 0
+    },
+    {
+      "country": "Costa Rica",
+      "isoCode": "CR",
+      "method": 0
+    },
+    {
+      "country": "Croatia",
+      "isoCode": "HR",
+      "method": 0
+    },
+    {
+      "country": "Cuba",
+      "isoCode": "CU",
+      "method": 0
+    },
+    {
+      "country": "Cyprus",
+      "isoCode": "CY",
+      "method": 0
+    },
+    {
+      "country": "Czech Republic",
+      "isoCode": "CZ",
+      "method": 0
+    },
+    {
+      "country": "Democratic Republic Congo",
+      "isoCode": "CD",
+      "method": 0
+    },
+    {
+      "country": "Denmark",
+      "isoCode": "DK",
+      "method": 0
+    },
+    {
+      "country": "Djibouti",
+      "isoCode": "DJ",
+      "method": 0
+    },
+    {
+      "country": "Dominica",
+      "isoCode": "DM",
+      "method": 0
+    },
+    {
+      "country": "Dominican Republic",
+      "isoCode": "DO",
+      "method": 0
+    },
+    {
+      "country": "Ecuador",
+      "isoCode": "EC",
+      "method": 0
+    },
+    {
+      "country": "Egypt",
+      "isoCode": "EG",
+      "method": 1
+    },
+    {
+      "country": "El Salvador",
+      "isoCode": "SV",
+      "method": 0
+    },
+    {
+      "country": "Equatorial Guinea",
+      "isoCode": "GQ",
+      "method": 0
+    },
+    {
+      "country": "Eritrea",
+      "isoCode": "ER",
+      "method": 0
+    },
+    {
+      "country": "Estonia",
+      "isoCode": "EE",
+      "method": 0
+    },
+    {
+      "country": "Ethiopia",
+      "isoCode": "ET",
+      "method": 0
+    },
+    {
+      "country": "Falkland Islands",
+      "isoCode": "FK",
+      "method": 0
+    },
+    {
+      "country": "Fiji",
+      "isoCode": "FJ",
+      "method": 0
+    },
+    {
+      "country": "Finland",
+      "isoCode": "FI",
+      "method": 0
+    },
+    {
+      "country": "France",
+      "isoCode": "FR",
+      "method": 5
+    },
+    {
+      "country": "French Guiana",
+      "isoCode": "GF",
+      "method": 0
+    },
+    {
+      "country": "Gabon",
+      "isoCode": "GA",
+      "method": 0
+    },
+    {
+      "country": "Gambia",
+      "isoCode": "GM",
+      "method": 0
+    },
+    {
+      "country": "Georgia",
+      "isoCode": "GE",
+      "method": 0
+    },
+    {
+      "country": "Germany",
+      "isoCode": "DE",
+      "method": 0
+    },
+    {
+      "country": "Ghana",
+      "isoCode": "GH",
+      "method": 0
+    },
+    {
+      "country": "Gibraltar",
+      "isoCode": "GI",
+      "method": 0
+    },
+    {
+      "country": "Greece",
+      "isoCode": "GR",
+      "method": 0
+    },
+    {
+      "country": "Grenada",
+      "isoCode": "GD",
+      "method": 0
+    },
+    {
+      "country": "Guatemala",
+      "isoCode": "GT",
+      "method": 0
+    },
+    {
+      "country": "Guinea",
+      "isoCode": "GN",
+      "method": 0
+    },
+    {
+      "country": "Guinea Bissau",
+      "isoCode": "GW",
+      "method": 0
+    },
+    {
+      "country": "Guyana",
+      "isoCode": "GY",
+      "method": 0
+    },
+    {
+      "country": "Haiti",
+      "isoCode": "HT",
+      "method": 0
+    },
+    {
+      "country": "Honduras",
+      "isoCode": "HN",
+      "method": 0
+    },
+    {
+      "country": "Hong Kong",
+      "isoCode": "HK",
+      "method": 0
+    },
+    {
+      "country": "Hungary",
+      "isoCode": "HU",
+      "method": 0
+    },
+    {
+      "country": "India",
+      "isoCode": "IN",
+      "method": 2
+    },
+    {
+      "country": "Indonesia",
+      "isoCode": "ID",
+      "method": 0
+    },
+    {
+      "country": "Iran",
+      "isoCode": "IR",
+      "method": 0
+    },
+    {
+      "country": "Iraq",
+      "isoCode": "IQ",
+      "method": 0
+    },
+    {
+      "country": "Ireland",
+      "isoCode": "IE",
+      "method": 0
+    },
+    {
+      "country": "Isle Of Man",
+      "isoCode": "IM",
+      "method": 0
+    },
+    {
+      "country": "Italy",
+      "isoCode": "IT",
+      "method": 0
+    },
+    {
+      "country": "Jamaica",
+      "isoCode": "JM",
+      "method": 0
+    },
+    {
+      "country": "Japan",
+      "isoCode": "JP",
+      "method": 0
+    },
+    {
+      "country": "Jordan",
+      "isoCode": "JO",
+      "method": 3
+    },
+    {
+      "country": "Kazakhstan",
+      "isoCode": "KZ",
+      "method": 0
+    },
+    {
+      "country": "Kenya",
+      "isoCode": "KE",
+      "method": 0
+    },
+    {
+      "country": "Kosovo",
+      "isoCode": "XK",
+      "method": 0
+    },
+    {
+      "country": "Kuwait",
+      "isoCode": "KW",
+      "method": 3
+    },
+    {
+      "country": "Kyrgyzstan",
+      "isoCode": "KG",
+      "method": 0
+    },
+    {
+      "country": "Latvia",
+      "isoCode": "LV",
+      "method": 0
+    },
+    {
+      "country": "Lebanon",
+      "isoCode": "LB",
+      "method": 0
+    },
+    {
+      "country": "Liberia",
+      "isoCode": "LR",
+      "method": 0
+    },
+    {
+      "country": "Libya",
+      "isoCode": "LY",
+      "method": 1
+    },
+    {
+      "country": "Lithuania",
+      "isoCode": "LT",
+      "method": 0
+    },
+    {
+      "country": "Luxembourg",
+      "isoCode": "LU",
+      "method": 0
+    },
+    {
+      "country": "Madagascar",
+      "isoCode": "MG",
+      "method": 0
+    },
+    {
+      "country": "Malawi",
+      "isoCode": "MW",
+      "method": 0
+    },
+    {
+      "country": "Malaysia",
+      "isoCode": "MY",
+      "method": 0
+    },
+    {
+      "country": "Maldives",
+      "isoCode": "MV",
+      "method": 0
+    },
+    {
+      "country": "Malta",
+      "isoCode": "MT",
+      "method": 0
+    },
+    {
+      "country": "Martinique",
+      "isoCode": "MQ",
+      "method": 0
+    },
+    {
+      "country": "Mauritania",
+      "isoCode": "MR",
+      "method": 0
+    },
+    {
+      "country": "Mexico",
+      "isoCode": "MX",
+      "method": 0
+    },
+    {
+      "country": "Moldova",
+      "isoCode": "MD",
+      "method": 0
+    },
+    {
+      "country": "Monaco",
+      "isoCode": "MC",
+      "method": 0
+    },
+    {
+      "country": "Montserrat",
+      "isoCode": "MS",
+      "method": 0
+    },
+    {
+      "country": "Morocco",
+      "isoCode": "MA",
+      "method": 0
+    },
+    {
+      "country": "Mozambique",
+      "isoCode": "MZ",
+      "method": 0
+    },
+    {
+      "country": "Myanmar",
+      "isoCode": "MM",
+      "method": 0
+    },
+    {
+      "country": "Namibia",
+      "isoCode": "NA",
+      "method": 0
+    },
+    {
+      "country": "Nepal",
+      "isoCode": "NP",
+      "method": 0
+    },
+    {
+      "country": "Netherlands",
+      "isoCode": "NL",
+      "method": 0
+    },
+    {
+      "country": "New Zealand",
+      "isoCode": "NZ",
+      "method": 0
+    },
+    {
+      "country": "Nicaragua",
+      "isoCode": "NI",
+      "method": 0
+    },
+    {
+      "country": "Niger",
+      "isoCode": "NE",
+      "method": 0
+    },
+    {
+      "country": "Nigeria",
+      "isoCode": "NG",
+      "method": 1
+    },
+    {
+      "country": "North Korea",
+      "isoCode": "KP",
+      "method": 0
+    },
+    {
+      "country": "Norway",
+      "isoCode": "NO",
+      "method": 0
+    },
+    {
+      "country": "Oman",
+      "isoCode": "OM",
+      "method": 3
+    },
+    {
+      "country": "Pakistan",
+      "isoCode": "PK",
+      "method": 2
+    },
+    {
+      "country": "Palestine",
+      "isoCode": "PS",
+      "method": 0
+    },
+    {
+      "country": "Panama",
+      "isoCode": "PA",
+      "method": 0
+    },
+    {
+      "country": "Papua New Guinea",
+      "isoCode": "PG",
+      "method": 0
+    },
+    {
+      "country": "Paraguay",
+      "isoCode": "PY",
+      "method": 0
+    },
+    {
+      "country": "Peru",
+      "isoCode": "PE",
+      "method": 0
+    },
+    {
+      "country": "Philippines",
+      "isoCode": "PH",
+      "method": 0
+    },
+    {
+      "country": "Poland",
+      "isoCode": "PL",
+      "method": 0
+    },
+    {
+      "country": "Portugal",
+      "isoCode": "PT",
+      "method": 0
+    },
+    {
+      "country": "Puerto Rico",
+      "isoCode": "PR",
+      "method": 0
+    },
+    {
+      "country": "Qatar",
+      "isoCode": "QA",
+      "method": 3
+    },
+    {
+      "country": "Romania",
+      "isoCode": "RO",
+      "method": 0
+    },
+    {
+      "country": "Russia",
+      "isoCode": "RU",
+      "method": 0
+    },
+    {
+      "country": "Rwanda",
+      "isoCode": "RW",
+      "method": 0
+    },
+    {
+      "country": "Saint Lucia",
+      "isoCode": "LC",
+      "method": 0
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "isoCode": "VC",
+      "method": 0
+    },
+    {
+      "country": "Saudi Arabia",
+      "isoCode": "SA",
+      "method": 3
+    },
+    {
+      "country": "Senegal",
+      "isoCode": "SN",
+      "method": 0
+    },
+    {
+      "country": "Seychelles",
+      "isoCode": "SC",
+      "method": 0
+    },
+    {
+      "country": "Sierra Leone",
+      "isoCode": "SL",
+      "method": 0
+    },
+    {
+      "country": "Singapore",
+      "isoCode": "SG",
+      "method": 9
+    },
+    {
+      "country": "Slovakia",
+      "isoCode": "SK",
+      "method": 0
+    },
+    {
+      "country": "Slovenia",
+      "isoCode": "SI",
+      "method": 0
+    },
+    {
+      "country": "Solomon Islands",
+      "isoCode": "SB",
+      "method": 0
+    },
+    {
+      "country": "Somalia",
+      "isoCode": "SO",
+      "method": 0
+    },
+    {
+      "country": "South Africa",
+      "isoCode": "ZA",
+      "method": 0
+    },
+    {
+      "country": "South Korea",
+      "isoCode": "KR",
+      "method": 0
+    },
+    {
+      "country": "South Sudan",
+      "isoCode": "SS",
+      "method": 1
+    },
+    {
+      "country": "Spain",
+      "isoCode": "ES",
+      "method": 0
+    },
+    {
+      "country": "Sri Lanka",
+      "isoCode": "LK",
+      "method": 0
+    },
+    {
+      "country": "Sudan",
+      "isoCode": "SD",
+      "method": 1
+    },
+    {
+      "country": "Suriname",
+      "isoCode": "SR",
+      "method": 0
+    },
+    {
+      "country": "Swaziland",
+      "isoCode": "SZ",
+      "method": 0
+    },
+    {
+      "country": "Sweden",
+      "isoCode": "SE",
+      "method": 0
+    },
+    {
+      "country": "Switzerland",
+      "isoCode": "CH",
+      "method": 0
+    },
+    {
+      "country": "Syria",
+      "isoCode": "SY",
+      "method": 3
+    },
+    {
+      "country": "Taiwan",
+      "isoCode": "TW",
+      "method": 0
+    },
+    {
+      "country": "Tajikistan",
+      "isoCode": "TJ",
+      "method": 0
+    },
+    {
+      "country": "Tanzania",
+      "isoCode": "TZ",
+      "method": 0
+    },
+    {
+      "country": "Thailand",
+      "isoCode": "TH",
+      "method": 0
+    },
+    {
+      "country": "Togo",
+      "isoCode": "TG",
+      "method": 0
+    },
+    {
+      "country": "Trinidad And Tobago",
+      "isoCode": "TT",
+      "method": 0
+    },
+    {
+      "country": "Tunisia",
+      "isoCode": "TN",
+      "method": 0
+    },
+    {
+      "country": "Turkey",
+      "isoCode": "TR",
+      "method": 0
+    },
+    {
+      "country": "Turkmenistan",
+      "isoCode": "TM",
+      "method": 0
+    },
+    {
+      "country": "Turks Caicos Islands",
+      "isoCode": "TC",
+      "method": 0
+    },
+    {
+      "country": "Uganda",
+      "isoCode": "UG",
+      "method": 0
+    },
+    {
+      "country": "UK",
+      "isoCode": "GB",
+      "method": 6
+    },
+    {
+      "country": "Ukraine",
+      "isoCode": "UA",
+      "method": 0
+    },
+    {
+      "country": "United Arab Emirates",
+      "isoCode": "AE",
+      "method": 3
+    },
+    {
+      "country": "United States Virgin Islands",
+      "isoCode": "VI",
+      "method": 0
+    },
+    {
+      "country": "Uruguay",
+      "isoCode": "UY",
+      "method": 0
+    },
+    {
+      "country": "USA",
+      "isoCode": "US",
+      "method": 6
+    },
+    {
+      "country": "Uzbekistan",
+      "isoCode": "UZ",
+      "method": 0
+    },
+    {
+      "country": "Venezuela",
+      "isoCode": "VE",
+      "method": 0
+    },
+    {
+      "country": "Vietnam",
+      "isoCode": "VN",
+      "method": 0
+    },
+    {
+      "country": "Yemen",
+      "isoCode": "YE",
+      "method": 3
+    },
+    {
+      "country": "Zambia",
+      "isoCode": "ZM",
+      "method": 0
+    },
+    {
+      "country": "Zimbabwe",
+      "isoCode": "ZW",
+      "method": 0
+    }
+  ]
 }
 
 
